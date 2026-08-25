@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SCD+BCD Building RSCC NeurIPS2025 Open Maxar Data Programme 62,351 512 × 512 0.3-0.8m 31 Locations Globally 5",
+          "title": "RSCC",
+          "description": "SCD+BCD Building NeurIPS2025 Open Maxar Data Programme 62,351 512 × 512 0.3-0.8m 31 Locations Globally 5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-02-14T07:50:49Z",
             "owner": "Bili-Sakura",
             "repo": "RSCC",
-            "stars": 58
+            "stars": 59
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "SCD Land cover LsSCD-Ex JAG2026 Google Earth 100 2048 × 2048 0.6m Nanjing, China 8",
+          "title": "LsSCD-Ex",
+          "description": "SCD Land cover JAG2026 Google Earth 100 2048 × 2048 0.6m Nanjing, China 8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "SCD+BCD Building FOTBCD-Binary;FOTBCD-Instances arXiv2026 IGN 27,871;4000 512 × 512 0.2m France 2;3",
+          "title": "FOTBCD-Binary;FOTBCD-Instances",
+          "description": "SCD+BCD Building arXiv2026 IGN 27,871;4000 512 × 512 0.2m France 2;3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "RSICC Land cover MOSAIC-SEN2-CC JSTARS2025 Sentinel-2 5,232 480 × 480 10m Global 8",
+          "title": "MOSAIC-SEN2-CC",
+          "description": "RSICC Land cover JSTARS2025 Sentinel-2 5,232 480 × 480 10m Global 8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SCD Cropland Xiamen, Fuzhou JAG2025, ISPRS P&RS 2024 Google Earth 6480 (Xiamen); 8719 (Fuzhou) 256 × 256 0.5m Xiang’an and Tong’an districts, Xiamen, China; Changle and Minhou districts, Fuzhou, China 7",
+          "title": "Xiamen",
+          "description": ", Fuzhou SCD Cropland JAG2025, ISPRS P&RS 2024 Google Earth 6480 (Xiamen); 8719 (Fuzhou) 256 × 256 0.5m Xiang’an and Tong’an districts, Xiamen, China; Changle and Minhou districts, Fuzhou, China 7",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "BCD Building CWSCD JAG2025 BJ-2, GF-2 200 2048×2048 1m Hebei, China 2",
+          "title": "CWSCD",
+          "description": "BCD Building JAG2025 BJ-2, GF-2 200 2048×2048 1m Hebei, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SCD Land cover SC-SCD7, CC-SCD5 ISPRS P&RS 2025 Pléiades, Beijing-2, Gaofen-1, Gaofen-2, Ziyuan-3 1,722; 953 512×512 0.5m, 2.3m, 2.5 m Zhangzhou (Longwen) and Henan (Dengfeng, Luoyang, Sanmenxia), China 8; 5",
+          "title": "SC-SCD7, CC-SCD5",
+          "description": "SCD Land cover ISPRS P&RS 2025 Pléiades, Beijing-2, Gaofen-1, Gaofen-2, Ziyuan-3 1,722; 953 512×512 0.5m, 2.3m, 2.5 m Zhangzhou (Longwen) and Henan (Dengfeng, Luoyang, Sanmenxia), China 8; 5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SCD Land cover LevirSCD arXiv2025 GF-1, Google Earth 3,225 256×256 1-2 Beijing, China 16",
+          "title": "LevirSCD",
+          "description": "SCD Land cover arXiv2025 GF-1, Google Earth 3,225 256×256 1-2 Beijing, China 16",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "BCD Land cover JL1-CD arXiv2025 Jilin-1 5,000 512×512 0.5-0.75m Multiple provinces in China 2",
+          "title": "JL1-CD",
+          "description": "BCD Land cover arXiv2025 Jilin-1 5,000 512×512 0.5-0.75m Multiple provinces in China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "BCD Building TUE-CD TGRS2024 WorldView-2 1,656 256×256 1.8m Turkey 2",
+          "title": "TUE-CD",
+          "description": "BCD Building TGRS2024 WorldView-2 1,656 256×256 1.8m Turkey 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SCD Urban MSRS-CD JSTARS2024 - 841 1,024×1,024 0.5m Southern Chinese cities 5",
+          "title": "MSRS-CD",
+          "description": "SCD Urban JSTARS2024 - 841 1,024×1,024 0.5m Southern Chinese cities 5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SCD Cropland CropSCD TGRS2024 - 4,141 512×512 0.5-2m Guangdong, China 9",
+          "title": "CropSCD",
+          "description": "SCD Cropland TGRS2024 - 4,141 512×512 0.5-2m Guangdong, China 9",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "BCD Building EGY-BCD GRSL2023 Google Earth 6,091 256×256 0.25m Egypt 2",
+          "title": "EGY-BCD",
+          "description": "BCD Building GRSL2023 Google Earth 6,091 256×256 0.25m Egypt 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "BCD Building HRCUS-CD TGRS2023 - 11,388 256×256 0.5m Zhuhai, China 2",
+          "title": "HRCUS-CD",
+          "description": "BCD Building TGRS2023 - 11,388 256×256 0.5m Zhuhai, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SCD Land cover CNAM-CD RS2023 Google Earth 2,503 512×512 0.5m 12 State-level New Areas in China 6",
+          "title": "CNAM-CD",
+          "description": "SCD Land cover RS2023 Google Earth 2,503 512×512 0.5m 12 State-level New Areas in China 6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "BCD Landslide GVLM ISPRS P&RS 2023 Google Earth 17 1,748×1,748-10,808×7,424 0.59m Global 2",
+          "title": "GVLM",
+          "description": "BCD Landslide ISPRS P&RS 2023 Google Earth 17 1,748×1,748-10,808×7,424 0.59m Global 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SCD Building BANDON Sci. China Inf. Sci. 2023 Google Earth, Microsoft Virtual Earth, and ArcGIS 2,283 2,048×2,048 0.6m China (Beijing, Shanghai, Wuhan, Shenzhen, Hong Kong, and Jinan) 6",
+          "title": "BANDON",
+          "description": "SCD Building Sci. China Inf. Sci. 2023 Google Earth, Microsoft Virtual Earth, and ArcGIS 2,283 2,048×2,048 0.6m China (Beijing, Shanghai, Wuhan, Shenzhen, Hong Kong, and Jinan) 6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "BCD Cropland CLCD JSTARS2022 GF-2 600 512×512 0.5-2m Guangdong, China 2",
+          "title": "CLCD",
+          "description": "BCD Cropland JSTARS2022 GF-2 600 512×512 0.5-2m Guangdong, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "RSICC Building LEVIR-CC TGRS2022 Google Earth 10,077 1,024×1,024 0.5m Texas, USA 2",
+          "title": "LEVIR-CC",
+          "description": "RSICC Building TGRS2022 Google Earth 10,077 1,024×1,024 0.5m Texas, USA 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "BCD Land cover SYSU-CD TGRS2021 - 20,000 256×256 0.5m Hong Kong, China 2",
+          "title": "SYSU-CD",
+          "description": "BCD Land cover TGRS2021 - 20,000 256×256 0.5m Hong Kong, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "SCD Building S2Looking RS2021 GF, SuperView, BJ-2 5,000 1,024×1,024 0.5-0.8m Global 2",
+          "title": "S2Looking",
+          "description": "SCD Building RS2021 GF, SuperView, BJ-2 5,000 1,024×1,024 0.5-0.8m Global 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "BCD Building LEVIR-CD+ RS2021 Google Earth 985 1,024×1,024 0.5m Texas, USA 2",
+          "title": "LEVIR-CD+",
+          "description": "BCD Building RS2021 Google Earth 985 1,024×1,024 0.5m Texas, USA 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "SCD Building NanjingDataset ISPRS P&RS 2022 Google Earth 2,519 256×256 0.3m Nanjing, China 3",
+          "title": "NanjingDataset",
+          "description": "SCD Building ISPRS P&RS 2022 Google Earth 2,519 256×256 0.3m Nanjing, China 3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "BCD Urban HTCD RS2021 Google Earth, Open Aerial Map 3,772 256×256, 2,048×2,048 0.5971m, 0.07465m Chisinau, Moldova 2",
+          "title": "HTCD",
+          "description": "BCD Urban RS2021 Google Earth, Open Aerial Map 3,772 256×256, 2,048×2,048 0.5971m, 0.07465m Chisinau, Moldova 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "BCD Building GZ-CD (or CD_Data_GZ) TGRS2020 Google Earth 19 1,006×1,168-4,936×5,224 0.55m Guangzhou, China 2",
+          "title": "GZ-CD",
+          "description": "(or CD_Data_GZ) BCD Building TGRS2020 Google Earth 19 1,006×1,168-4,936×5,224 0.55m Guangzhou, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "BCD Building DSIFN (or DSIFN-CD) ISPRS P&RS 2020 Google Earth 3,940 512×512 - China (Beijing, Chengdu, Shenzhen, Chongqing, Wuhan, and Xian) 2",
+          "title": "DSIFN",
+          "description": "(or DSIFN-CD) BCD Building ISPRS P&RS 2020 Google Earth 3,940 512×512 - China (Beijing, Chengdu, Shenzhen, Chongqing, Wuhan, and Xian) 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "SCD Land cover Hi-UCD arXiv2020 Aerial Images 1,293 1,024×1,024 0.1m Tallinn, Estonia 9",
+          "title": "Hi-UCD",
+          "description": "SCD Land cover arXiv2020 Aerial Images 1,293 1,024×1,024 0.1m Tallinn, Estonia 9",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "DDA Disaster DisasterM3 NeurIPS2025 Optical-SAR-Instruction - - - Global -",
+          "title": "DisasterM3",
+          "description": "DDA Disaster NeurIPS2025 Optical-SAR-Instruction - - - Global -",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SCD Building BRIGHT arXiv2025 Optical and SAR 4,538 1,024×1,024 0.3-1m Global 4",
+          "title": "BRIGHT",
+          "description": "SCD Building arXiv2025 Optical and SAR 4,538 1,024×1,024 0.3-1m Global 4",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,8 +446,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SCD Building Hi-BCD Information Fusion 2023 Aerial Images, DSMs 1,500 1,000×1,000 0.25m Netherlands (Amsterdam, Rotterdam, and Utrecht) 3",
+          "title": "Hi-BCD",
+          "description": "SCD Building Information Fusion 2023 Aerial Images, DSMs 1,500 1,000×1,000 0.25m Netherlands (Amsterdam, Rotterdam, and Utrecht) 3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SCD Flood UrbanSARFloods CVPR2024W Sentinel-1 8,879 512×512 20m Global 5",
+          "title": "UrbanSARFloods",
+          "description": "SCD Flood CVPR2024W Sentinel-1 8,879 512×512 20m Global 5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SCD Land use EVLab-CMCD ISPSR P&RS 2024 GF-2, BJ-2, Historical land use maps 5,622 512×512 0.8m 10 Cities in China 13",
+          "title": "EVLab-CMCD",
+          "description": "SCD Land use ISPSR P&RS 2024 GF-2, BJ-2, Historical land use maps 5,622 512×512 0.8m 10 Cities in China 13",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "BCD Flood CAU-Flood JAG2023 Sentinel-1, Sentinel-2 18,302 256×256 10m Global 2",
+          "title": "CAU-Flood",
+          "description": "BCD Flood JAG2023 Sentinel-1, Sentinel-2 18,302 256×256 10m Global 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,8 +506,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SCD Flood Kuro Siwo NeurIPS2024 Sentinel-1, DEM 67,490 224×224 10m Global 3",
+          "title": "Kuro Siwo",
+          "description": "SCD Flood NeurIPS2024 Sentinel-1, DEM 67,490 224×224 10m Global 3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,8 +521,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "BCD Flood Wuhan JAG2022 Sentinel-2, COSMO-SkyMed 1 11,216×13,693 3m Wuhan, China 2",
+          "title": "Wuhan",
+          "description": "BCD Flood JAG2022 Sentinel-2, COSMO-SkyMed 1 11,216×13,693 3m Wuhan, China 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "BCD Flood Ombria JSTARS2022 Sentinel-1, Sentinel-2 1,688 256×256 10m Global 2",
+          "title": "Ombria",
+          "description": "BCD Flood JSTARS2022 Sentinel-1, Sentinel-2 1,688 256×256 10m Global 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "BCD Land cover MultiModalOSCD ISPRS. XXIV ISPRS Congress 2021 Sentinel-1, Sentinel-2 24 600×600 10-60m Global 2",
+          "title": "MultiModalOSCD",
+          "description": "BCD Land cover ISPRS. XXIV ISPRS Congress 2021 Sentinel-1, Sentinel-2 24 600×600 10-60m Global 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,8 +572,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "rschange An open-source toolbox dedicated to reproducing and developing advanced methods (e.g., DDLNet, CDMask) for change detection in remote sensing images.",
+          "title": "rschange",
+          "description": "An open-source toolbox dedicated to reproducing and developing advanced methods (e.g., DDLNet, CDMask) for change detection in remote sensing images.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,8 +587,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "torchange A benchmark library providing out-of-box, straightforward implementations of contemporary spatiotemporal change detection models (e.g., ChangeStar, Changen, AnyChange), metrics, and datasets to promote reproducibility in remote sensing research.",
+          "title": "torchange",
+          "description": "A benchmark library providing out-of-box, straightforward implementations of contemporary spatiotemporal change detection models (e.g., ChangeStar, Changen, AnyChange), metrics, and datasets to promote reproducibility in remote sensing research.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -602,8 +602,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Open-CD The most comprehensive open-source toolbox for change detection, offering a unified platform with diverse methods, training/inference tools, data analysis scripts, and benchmarks to support research and development in the field. Paper: arXiv2024.",
+          "title": "Open-CD",
+          "description": "The most comprehensive open-source toolbox for change detection, offering a unified platform with diverse methods, training/inference tools, data analysis scripts, and benchmarks to support research and development in the field. Paper: arXiv2024.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -627,7 +627,7 @@
             "last_commit": "2025-01-20T19:26:46Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -647,8 +647,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Change Detection Repository It provides Python implementations of selected traditional change detection methods (e.g., CVA, SFA, MAD) and deep learning-based approaches (e.g., SiamCRNN, DSFA, and FCN-based methods).",
+          "title": "Change Detection Repository",
+          "description": "It provides Python implementations of selected traditional change detection methods (e.g., CVA, SFA, MAD) and deep learning-based approaches (e.g., SiamCRNN, DSFA, and FCN-based methods).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,8 +662,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ChangeDetectionToolbox This MATLAB toolbox provides a modular, end-to-end framework for remote sensing change detection, implementing key methods such as CVA , MAD , and IRMAD to generate difference images and evaluate change maps.",
+          "title": "ChangeDetectionToolbox",
+          "description": "This MATLAB toolbox provides a modular, end-to-end framework for remote sensing change detection, implementing key methods such as CVA , MAD , and IRMAD to generate difference images and evaluate change maps.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,8 +687,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "GeoVLM-R1 GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning arXiv2025 Qwen2.5VL-3B-Instruct Task aware rewards, reasoning based RL models GeoChat-Instruct, NWPU VHR-10; Dubai-CC, LEVIR-MCI, MUDS, SYSU-CD; NWPU-Captions, RSCID-Captions, RSITMD-Captions",
+                  "title": "GeoVLM-R1",
+                  "description": "GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning arXiv2025 Qwen2.5VL-3B-Instruct Task aware rewards, reasoning based RL models GeoChat-Instruct, NWPU VHR-10; Dubai-CC, LEVIR-MCI, MUDS, SYSU-CD; NWPU-Captions, RSCID-Captions, RSITMD-Captions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -702,8 +702,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "SegChange-R1 SegChange-R1: LLM-Augmented Remote Sensing Change Detection arXiv2025 Swin Transformer, Microsoft/Phi-1.5 LLM-augmented inference approach, Linear attention-based spatial transformation module WHU-CD, CDD, DSIFN-CD, DVCD",
+                  "title": "SegChange-R1",
+                  "description": "SegChange-R1: LLM-Augmented Remote Sensing Change Detection arXiv2025 Swin Transformer, Microsoft/Phi-1.5 LLM-augmented inference approach, Linear attention-based spatial transformation module WHU-CD, CDD, DSIFN-CD, DVCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -717,8 +717,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "SAM2-CD SAM2-CD: Remote Sensing Image Change Detection With SAM2 JSTAR2025 SAM2 Dynamic feature selection, global–local attention WHU-CD, LEVIR-CD, and LEVIR-CD+",
+                  "title": "SAM2-CD",
+                  "description": "SAM2-CD: Remote Sensing Image Change Detection With SAM2 JSTAR2025 SAM2 Dynamic feature selection, global–local attention WHU-CD, LEVIR-CD, and LEVIR-CD+",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -732,8 +732,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ViTP Visual Instruction Pretraining for Domain-Specific Foundation Models arXiv2025 ViT, InternVL-2.5 Leveraging reasoning to enhance perception, ViT, Visual Robustness Learning 16 challenging remote sensing and medical imaging benchmarks",
+                  "title": "ViTP",
+                  "description": "Visual Instruction Pretraining for Domain-Specific Foundation Models arXiv2025 ViT, InternVL-2.5 Leveraging reasoning to enhance perception, ViT, Visual Robustness Learning 16 challenging remote sensing and medical imaging benchmarks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -747,8 +747,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "AdaptVFMs-RSCD AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP ISPRS P&RS 2025 CLIP, SAM Remote sensing VFM fine-tuning dataset RS VFM Fine-tuning dataset, DSIFN-CD, CLCD, SYSU-CD",
+                  "title": "AdaptVFMs-RSCD",
+                  "description": "AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP ISPRS P&RS 2025 CLIP, SAM Remote sensing VFM fine-tuning dataset RS VFM Fine-tuning dataset, DSIFN-CD, CLCD, SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -762,8 +762,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "PeftCD PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection arXiv2025 SAM2, DINOv3 Vision Foundation Models, Parameter-Efficient Fine-Tuning WHU-CD, CDD, LEVIR-CD, SYSU-CD, MSRSCD, MLCD, S2Looking",
+                  "title": "PeftCD",
+                  "description": "PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection arXiv2025 SAM2, DINOv3 Vision Foundation Models, Parameter-Efficient Fine-Tuning WHU-CD, CDD, LEVIR-CD, SYSU-CD, MSRSCD, MLCD, S2Looking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -777,8 +777,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "SA-CDNet Detect Changes Like Humans: Incorporating Semantic Priors for Improved Change Detection TGRS2025 FastSAM Dual-stream decoder, multiscale feature, visual foundation model AIRS, INRIA-Building, and WHU-Building; DLCCC, and LoveDA; WHU-CD, LEVIR-CD, LEVIR-CD+, S2Looking, WHU Cultivate Land Dataset",
+                  "title": "SA-CDNet",
+                  "description": "Detect Changes Like Humans: Incorporating Semantic Priors for Improved Change Detection TGRS2025 FastSAM Dual-stream decoder, multiscale feature, visual foundation model AIRS, INRIA-Building, and WHU-Building; DLCCC, and LoveDA; WHU-CD, LEVIR-CD, LEVIR-CD+, S2Looking, WHU Cultivate Land Dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -792,8 +792,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "DynamicEarth DynamicEarth: How Far are We from Open-Vocabulary Change Detection? arXiv2025 SAM2, DINOv2 Open-Vocabulary Change Detection WHU-CD, LEVIR-CD, SECOND, S2Looking, and BANDON",
+                  "title": "DynamicEarth",
+                  "description": "DynamicEarth: How Far are We from Open-Vocabulary Change Detection? arXiv2025 SAM2, DINOv2 Open-Vocabulary Change Detection WHU-CD, LEVIR-CD, SECOND, S2Looking, and BANDON",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -807,8 +807,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "DisasterM3 DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response NeurIPS2025 LLaVA, Kimi, InternVL, Qwen2.5, GeoCha, TeoChat, EarthDial, GPT4 Multi-hazard, Multi-sensor, Multi-task DisasterM3",
+                  "title": "DisasterM3",
+                  "description": "DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response NeurIPS2025 LLaVA, Kimi, InternVL, Qwen2.5, GeoCha, TeoChat, EarthDial, GPT4 Multi-hazard, Multi-sensor, Multi-task DisasterM3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -822,8 +822,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "EFI-SAM SAM-Based Efficient Feature Integration Network for Remote Sensing Change Detection: A Case Study on Macao Sea Reclamation JSTARS2025 SAM Random Fourier features, sea reclamation CLCD, SYSU-CD, S2Looking, MLCD",
+                  "title": "EFI-SAM",
+                  "description": "SAM-Based Efficient Feature Integration Network for Remote Sensing Change Detection: A Case Study on Macao Sea Reclamation JSTARS2025 SAM Random Fourier features, sea reclamation CLCD, SYSU-CD, S2Looking, MLCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -837,8 +837,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "AnyChange Segment Any Change NeurIPS2024 SAM Zero-shot change detection, bitemporal latent matching xBD, LEVIR-CD, S2Looking, SECOND",
+                  "title": "AnyChange",
+                  "description": "Segment Any Change NeurIPS2024 SAM Zero-shot change detection, bitemporal latent matching xBD, LEVIR-CD, S2Looking, SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -852,8 +852,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "SCM Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings IGARSS 2024 SAM, CLIP Unsupervised Change Detection, Vision Foundation Model WHU-CD, LEVIR-CD",
+                  "title": "SCM",
+                  "description": "Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings IGARSS 2024 SAM, CLIP Unsupervised Change Detection, Vision Foundation Model WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -867,8 +867,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "SemiCD-VL SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-Supervised Change Detector TGRS2024 APE Visual-language model, semi-supervised learning, foundation model WHU-CD, LEVIR-CD",
+                  "title": "SemiCD-VL",
+                  "description": "SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-Supervised Change Detector TGRS2024 APE Visual-language model, semi-supervised learning, foundation model WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -882,8 +882,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ChangeCLIP ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning ISPRS P&RS 2024 CLIP Multimodal, vision-Language Representation Learning WHU-CD, CDD, LEVIR-CD, LEVIR-CD+, and SYSU-CD",
+                  "title": "ChangeCLIP",
+                  "description": "ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning ISPRS P&RS 2024 CLIP Multimodal, vision-Language Representation Learning WHU-CD, CDD, LEVIR-CD, LEVIR-CD+, and SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -897,8 +897,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "BAN A New Learning Paradigm for Foundation Model-Based Remote-Sensing Change Detection TGRS2024 CLIP Foundation Model, visual tuning WHU-CD, LEVIR-CD, S2Looking, Landsat-SCD, and BANDON",
+                  "title": "BAN",
+                  "description": "A New Learning Paradigm for Foundation Model-Based Remote-Sensing Change Detection TGRS2024 CLIP Foundation Model, visual tuning WHU-CD, LEVIR-CD, S2Looking, Landsat-SCD, and BANDON",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -912,8 +912,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "SAM-CD Adapting Segment Anything Model for Change Detection in VHR Remote Sensing Images TGRS2024 SAM Vision foundation models WHU-CD, LEVIR-CD, CLCD, S2Looking",
+                  "title": "SAM-CD",
+                  "description": "Adapting Segment Anything Model for Change Detection in VHR Remote Sensing Images TGRS2024 SAM Vision foundation models WHU-CD, LEVIR-CD, CLCD, S2Looking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -934,8 +934,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "DreamCD DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery JAG206 Diffusion model; Synthetic change data OpenEarthMap, SECOND, LsSCD-Ex",
+                  "title": "DreamCD",
+                  "description": "DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery JAG206 Diffusion model; Synthetic change data OpenEarthMap, SECOND, LsSCD-Ex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -949,8 +949,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CT2Net Cycle Translation-Based Collaborative Training for Hyperspectral-RGB Multimodal Change Detection TPAMI2025 CycleGAN, Hyperspectral-RGB image, multimodal change detection, image translation, collaborative training Bay Area (HSI-RGB), Santa Barbara (HSI-RGB), Hermiston (HSI-RGB), XDU-Liyukou (HSI-RGB)",
+                  "title": "CT2Net",
+                  "description": "Cycle Translation-Based Collaborative Training for Hyperspectral-RGB Multimodal Change Detection TPAMI2025 CycleGAN, Hyperspectral-RGB image, multimodal change detection, image translation, collaborative training Bay Area (HSI-RGB), Santa Barbara (HSI-RGB), Hermiston (HSI-RGB), XDU-Liyukou (HSI-RGB)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -964,8 +964,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "NeDS Neural disaster simulation for transferable building damage assessment RSE2025 Synthetic data fine-tuning, deep generative models, conditional latent diffusion model xBD, Los Angeles Wildfire (2025), and Nigeria Flooding (2025)",
+                  "title": "NeDS",
+                  "description": "Neural disaster simulation for transferable building damage assessment RSE2025 Synthetic data fine-tuning, deep generative models, conditional latent diffusion model xBD, Los Angeles Wildfire (2025), and Nigeria Flooding (2025)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -979,8 +979,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "BDGF Balanced Diffusion-Guided Fusion for Multimodal Remote Sensing Classification arXiv2025 Denoising diffusion probabilistic models, adaptive modality masking strategy,mutual learning strategy Berlin dataset (HSI+SAR), Augsburg dataset (HSI+SAR), Yellow River Estuary dataset (HSI+SAR), LCZ HK dataset (MSI+SAR)",
+                  "title": "BDGF",
+                  "description": "Balanced Diffusion-Guided Fusion for Multimodal Remote Sensing Classification arXiv2025 Denoising diffusion probabilistic models, adaptive modality masking strategy,mutual learning strategy Berlin dataset (HSI+SAR), Augsburg dataset (HSI+SAR), Yellow River Estuary dataset (HSI+SAR), LCZ HK dataset (MSI+SAR)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -994,8 +994,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "RS-NormGAN RS-NormGAN: Enhancing change detection of multi-temporal optical remote sensing images through effective radiometric normalization ISPRS P&RS 2025 Deep style transfer; Domain adaptation; GAN; Multi-temporal radiometric normalization GESD, SHCD",
+                  "title": "RS-NormGAN",
+                  "description": "RS-NormGAN: Enhancing change detection of multi-temporal optical remote sensing images through effective radiometric normalization ISPRS P&RS 2025 Deep style transfer; Domain adaptation; GAN; Multi-temporal radiometric normalization GESD, SHCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1009,8 +1009,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "UP-Diff UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction GRSL2024 Cross-attention, latent diffusion model, urban planning LEVIR-CD, SYSU-CD",
+                  "title": "UP-Diff",
+                  "description": "UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction GRSL2024 Cross-attention, latent diffusion model, urban planning LEVIR-CD, SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1024,8 +1024,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ChangeDiff ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model AAAI2025 Diffusion models, text-to-layout model, multi-class distribution-guided text prompts SECOND, Landsat-SCD, and HRSCD",
+                  "title": "ChangeDiff",
+                  "description": "ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model AAAI2025 Diffusion models, text-to-layout model, multi-class distribution-guided text prompts SECOND, Landsat-SCD, and HRSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1039,8 +1039,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "Changen2 Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model TPAMI2024 Synthetic data pre-training, generative model, foundation model WHU-CD, xBD, LEVIR-CD, S2Looking, SECOND",
+                  "title": "Changen2",
+                  "description": "Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model TPAMI2024 Synthetic data pre-training, generative model, foundation model WHU-CD, xBD, LEVIR-CD, S2Looking, SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1054,8 +1054,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "Changen Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process ICCV2023 Deep generative model, change event simulation, semantic change synthesis WHU-CD, LEVIR-CD, S2Looking",
+                  "title": "Changen",
+                  "description": "Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process ICCV2023 Deep generative model, change event simulation, semantic change synthesis WHU-CD, LEVIR-CD, S2Looking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1069,8 +1069,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "DDPM-CD DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection WACV2025 Image synthesis, Denoising Diffusion Probabilistic Models WHU-CD, CDD, DSIFN-CD, and LEVIR-CD",
+                  "title": "DDPM-CD",
+                  "description": "DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection WACV2025 Image synthesis, Denoising Diffusion Probabilistic Models WHU-CD, CDD, DSIFN-CD, and LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1091,8 +1091,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "BTC Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices TGRS2025 Change detection, method optimization, remote sensing, supervised learning SYSU-CD, LEVIR-CD, EGY-BCD, GVLM-CD, CLCD, OSCD",
+                  "title": "BTC",
+                  "description": "Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices TGRS2025 Change detection, method optimization, remote sensing, supervised learning SYSU-CD, LEVIR-CD, EGY-BCD, GVLM-CD, CLCD, OSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1106,8 +1106,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CMNet CMNet: A CNN–Mamba Network for Change Detection With Similarity Orientation and Difference Perception TGRS2025 Difference perception, similarity orientation, CNN–Mamba DSIFN-CD, LEVIR-CD, SYSU-CD",
+                  "title": "CMNet",
+                  "description": "CMNet: A CNN–Mamba Network for Change Detection With Similarity Orientation and Difference Perception TGRS2025 Difference perception, similarity orientation, CNN–Mamba DSIFN-CD, LEVIR-CD, SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1121,8 +1121,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "S-cCDNet Semantic-centric change detection framework: considering spatiotemporal heterogeneity and spatiotemporal correlation of land cover IJDE2025 Multi-task learning, prototype representation, spatiotemporal heterogeneity, spatiotemporal correlation SECOND, Landsat-SCD",
+                  "title": "S-cCDNet",
+                  "description": "Semantic-centric change detection framework: considering spatiotemporal heterogeneity and spatiotemporal correlation of land cover IJDE2025 Multi-task learning, prototype representation, spatiotemporal heterogeneity, spatiotemporal correlation SECOND, Landsat-SCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1136,8 +1136,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CPGNet Detecting semantic changes from VHR remote sensing images by integrating semantic correlations and change priors JAG2025 Semantic correlations; Multi-view; Change prior-guided network JL1; Xiamen (XM) cropland non-agriculturalization dataset; SECOND",
+                  "title": "CPGNet",
+                  "description": "Detecting semantic changes from VHR remote sensing images by integrating semantic correlations and change priors JAG2025 Semantic correlations; Multi-view; Change prior-guided network JL1; Xiamen (XM) cropland non-agriculturalization dataset; SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1151,8 +1151,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "FoBa FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection arXiv2025 foreground background co-guided, bi-temporal interaction, mamba, new benchmark SECOND, JL1, and the proposed LevirSCD",
+                  "title": "FoBa",
+                  "description": "FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection arXiv2025 foreground background co-guided, bi-temporal interaction, mamba, new benchmark SECOND, JL1, and the proposed LevirSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1166,8 +1166,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "GSTM-SCD GSTM-SCD: Graph-enhanced spatio-temporal state space model for semantic change detection in multi-temporal remote sensing images ISPRS P&RS 2025 State space model, Graph optimization, Spatio-temporal modeling SECOND, Landsat-SCD, WUSU and DynamicEarthNet",
+                  "title": "GSTM-SCD",
+                  "description": "GSTM-SCD: Graph-enhanced spatio-temporal state space model for semantic change detection in multi-temporal remote sensing images ISPRS P&RS 2025 State space model, Graph optimization, Spatio-temporal modeling SECOND, Landsat-SCD, WUSU and DynamicEarthNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1181,8 +1181,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "Change3D Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective CVPR2025 Perception Feature Extraction, Change Decoder, Caption Decoder WHU-CD, HRSCD, xBD, LEVIR-CD, CLCD, SECOND, LEVIR-CC, and DUBAI-CC",
+                  "title": "Change3D",
+                  "description": "Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective CVPR2025 Perception Feature Extraction, Change Decoder, Caption Decoder WHU-CD, HRSCD, xBD, LEVIR-CD, CLCD, SECOND, LEVIR-CC, and DUBAI-CC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1196,8 +1196,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "UA-BCD Overcoming the uncertainty challenges in detecting building changes from remote sensing images ISPRS P&RS 2025 Uncertainty-related theory, Building change detection mapping, Siamese pyramid vision transformer CDD, WHU-CD, GZ-CD, LEVIR-CD, SYSU-CD",
+                  "title": "UA-BCD",
+                  "description": "Overcoming the uncertainty challenges in detecting building changes from remote sensing images ISPRS P&RS 2025 Uncertainty-related theory, Building change detection mapping, Siamese pyramid vision transformer CDD, WHU-CD, GZ-CD, LEVIR-CD, SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1211,8 +1211,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "SMGNet SMGNet: A Semantic Map-Guided Multitask Neural Network for Remote Sensing Image Semantic Change Detection GRSL2025 Historical semantic information, pseudochanges, semantic map-guided network, underdetection HRSCD",
+                  "title": "SMGNet",
+                  "description": "SMGNet: A Semantic Map-Guided Multitask Neural Network for Remote Sensing Image Semantic Change Detection GRSL2025 Historical semantic information, pseudochanges, semantic map-guided network, underdetection HRSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1226,8 +1226,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "HGINet Semantic change detection using a hierarchical semantic graph interaction network from high-resolution remote sensing images ISPRS P&RS 2024 Hierarchical semantic graph interaction network; Temporal correlations; Semantic difference interaction SECOND, HRSCD, Fuzhou, and Xiamen",
+                  "title": "HGINet",
+                  "description": "Semantic change detection using a hierarchical semantic graph interaction network from high-resolution remote sensing images ISPRS P&RS 2024 Hierarchical semantic graph interaction network; Temporal correlations; Semantic difference interaction SECOND, HRSCD, Fuzhou, and Xiamen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1241,8 +1241,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ChangeSparse Unifying Remote Sensing Change Detection via Deep Probabilistic Change Models: from Principles, Models to Applications ISPRS P&RS 2024 Probabilistic change model, sparsity of change, sparse change transformer CDD, S2Looking, California Flood dataset, xBD, SECOND, DynamicEarthNet",
+                  "title": "ChangeSparse",
+                  "description": "Unifying Remote Sensing Change Detection via Deep Probabilistic Change Models: from Principles, Models to Applications ISPRS P&RS 2024 Probabilistic change model, sparsity of change, sparse change transformer CDD, S2Looking, California Flood dataset, xBD, SECOND, DynamicEarthNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1256,8 +1256,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ChangeStar2 Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection IJCV2024 Universal change detection, single-temporal supervised learning WHU-CD, CDD, xBD, LEVIR-CD, S2Looking, SpaceNet8, DynamicEarthNet, SECOND",
+                  "title": "ChangeStar2",
+                  "description": "Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection IJCV2024 Universal change detection, single-temporal supervised learning WHU-CD, CDD, xBD, LEVIR-CD, S2Looking, SpaceNet8, DynamicEarthNet, SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1271,8 +1271,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "BiFA BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment TGRS2024 Bitemporal interaction, feature alignment, flow field WHU-CD, LEVIR-CD, LEVIR-CD+, SYSU-CD, DSIFN-CD, and CLCD",
+                  "title": "BiFA",
+                  "description": "BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment TGRS2024 Bitemporal interaction, feature alignment, flow field WHU-CD, LEVIR-CD, LEVIR-CD+, SYSU-CD, DSIFN-CD, and CLCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1286,8 +1286,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "CDMamba CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection TGRS2025 Mamba, bitemporal interaction, state space model WHU-CD, CDD, LEVIR-CD, LEVIR-CD+, and CLCD",
+                  "title": "CDMamba",
+                  "description": "CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection TGRS2025 Mamba, bitemporal interaction, state space model WHU-CD, CDD, LEVIR-CD, LEVIR-CD+, and CLCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1301,8 +1301,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "CDMask Rethinking Remote Sensing Change Detection With A Mask View arXiv2024 Mask view, mask-level Classification, MaskFormer WHU-CD, LEVIR-CD, SYSU-CD, DSIFN-CD, and CLCD",
+                  "title": "CDMask",
+                  "description": "Rethinking Remote Sensing Change Detection With A Mask View arXiv2024 Mask view, mask-level Classification, MaskFormer WHU-CD, LEVIR-CD, SYSU-CD, DSIFN-CD, and CLCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1316,8 +1316,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ChangeMamba ChangeMamba: Remote Sensing Change Detection With Spatiotemporal State Space Model TGRS2024 Mamba, spatiotemporal relationship, state space model WHU-CD, xBD, SECOND, LEVIR-CD+, and SYSU-CD",
+                  "title": "ChangeMamba",
+                  "description": "ChangeMamba: Remote Sensing Change Detection With Spatiotemporal State Space Model TGRS2024 Mamba, spatiotemporal relationship, state space model WHU-CD, xBD, SECOND, LEVIR-CD+, and SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1331,8 +1331,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "MaskCD MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification TGRS2024 Deformable attention, mask classification, masked cross-attention LEVIR-CD, CLCD, SYSU-CD, EGY-BCD, and GVLM-CD",
+                  "title": "MaskCD",
+                  "description": "MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification TGRS2024 Deformable attention, mask classification, masked cross-attention LEVIR-CD, CLCD, SYSU-CD, EGY-BCD, and GVLM-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1346,8 +1346,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "M-CD A Mamba-based Siamese Network for Remote Sensing Change Detection arXiv2024 Mamba, state space model, difference Module WHU-CD, CDD, DSIFN-CD, and LEVIR-CD",
+                  "title": "M-CD",
+                  "description": "A Mamba-based Siamese Network for Remote Sensing Change Detection arXiv2024 Mamba, state space model, difference Module WHU-CD, CDD, DSIFN-CD, and LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1361,8 +1361,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ScratchFormer Remote Sensing Change Detection With Transformers Trained From Scratch TGRS2024 Trained from scratch, shuffled sparse-attention operation, change-enhanced feature fusion, WHU-CD, OSCD, CDD, DSIFN-CD, and LEVIR-CD",
+                  "title": "ScratchFormer",
+                  "description": "Remote Sensing Change Detection With Transformers Trained From Scratch TGRS2024 Trained from scratch, shuffled sparse-attention operation, change-enhanced feature fusion, WHU-CD, OSCD, CDD, DSIFN-CD, and LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1376,8 +1376,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "SitsSCD Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift arXiv2024 Temporal attention, Temporal shift, Spatial shift DynamicEarthNet, MUDS",
+                  "title": "SitsSCD",
+                  "description": "Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift arXiv2024 Temporal attention, Temporal shift, Spatial shift DynamicEarthNet, MUDS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1391,8 +1391,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "3DCD Inferring 3D change detection from bitemporal optical images ISPRS P&RS 2023 3D Change Detection, Elevation change detection 3DCD",
+                  "title": "3DCD",
+                  "description": "Inferring 3D change detection from bitemporal optical images ISPRS P&RS 2023 3D Change Detection, Elevation change detection 3DCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1406,8 +1406,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "Siamese KPConv Siamese KPConv: 3D multiple change detection from raw point clouds using deep learning ISPRS P&RS 2023 3D Change Detection, Siamese network, 3D Kernel Point Convolution Urb3DCD–V2, AHN-CD, Change3D",
+                  "title": "Siamese KPConv",
+                  "description": "Siamese KPConv: 3D multiple change detection from raw point clouds using deep learning ISPRS P&RS 2023 3D Change Detection, Siamese network, 3D Kernel Point Convolution Urb3DCD–V2, AHN-CD, Change3D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1421,8 +1421,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "MapFormer MapFormer: Boosting Change Detection by Using Pre-change Information ICCV2023 Conditional Change Detection, multi-modal feature fusion, cross-modal contrastive loss HRSCD, DynamicEarthNet",
+                  "title": "MapFormer",
+                  "description": "MapFormer: Boosting Change Detection by Using Pre-change Information ICCV2023 Conditional Change Detection, multi-modal feature fusion, cross-modal contrastive loss HRSCD, DynamicEarthNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1436,8 +1436,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "CACo Change-Aware Sampling and Contrastive Learning for Satellite Images CVPR2023 Self-supervised learning, Change-Aware Contrastive Loss OSCD, DynamicEarthNet, EuroSat, and BigEarthNet",
+                  "title": "CACo",
+                  "description": "Change-Aware Sampling and Contrastive Learning for Satellite Images CVPR2023 Self-supervised learning, Change-Aware Contrastive Loss OSCD, DynamicEarthNet, EuroSat, and BigEarthNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1451,8 +1451,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "Self-Pair Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery WACV2023 Synthetic data, single-temporal supervision, visual similarity in unchanged area WHU-CD, SpaceNet2, xBD, LEVIR-CD",
+                  "title": "Self-Pair",
+                  "description": "Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery WACV2023 Synthetic data, single-temporal supervision, visual similarity in unchanged area WHU-CD, SpaceNet2, xBD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1466,8 +1466,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Changer Changer: Feature Interaction is What You Need for Change Detection TGRS2023 Feature Interaction LEVIR-CD, S2Looking",
+                  "title": "Changer",
+                  "description": "Changer: Feature Interaction is What You Need for Change Detection TGRS2023 Feature Interaction LEVIR-CD, S2Looking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1481,8 +1481,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ChangeMask ChangeMask: Deep Multi-task Encoder-Transformer-Decoder Architecture for Semantic Change Detection ISPRS P&RS 2022 Multi-task learning, temporal symmetry, multi-temporal SECOND, Hi-UCD",
+                  "title": "ChangeMask",
+                  "description": "ChangeMask: Deep Multi-task Encoder-Transformer-Decoder Architecture for Semantic Change Detection ISPRS P&RS 2022 Multi-task learning, temporal symmetry, multi-temporal SECOND, Hi-UCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1496,8 +1496,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "FHD Feature Hierarchical Differentiation for Remote Sensing Image Change Detection GRSL2022 Hierarchical differentiation, time-specific features DSIFN, LEVIR-CD, LEVIR-CD+, S2Looking",
+                  "title": "FHD",
+                  "description": "Feature Hierarchical Differentiation for Remote Sensing Image Change Detection GRSL2022 Hierarchical differentiation, time-specific features DSIFN, LEVIR-CD, LEVIR-CD+, S2Looking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1511,8 +1511,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "SST-Former Spectral–spatial–temporal transformers for hyperspectral image change detection TGRS2022 Hyperspectral, cross-attention, self-attention Farmland CD dataset, Barbara CD dataset, and Bay Area CD dataset",
+                  "title": "SST-Former",
+                  "description": "Spectral–spatial–temporal transformers for hyperspectral image change detection TGRS2022 Hyperspectral, cross-attention, self-attention Farmland CD dataset, Barbara CD dataset, and Bay Area CD dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1526,8 +1526,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "CDViT A Divided Spatial and Temporal Context Network for Remote Sensing Change Detection JSTARS2022 Self-attention, spatial-temporal transformer WHU-CD, LEVIR-CD",
+                  "title": "CDViT",
+                  "description": "A Divided Spatial and Temporal Context Network for Remote Sensing Change Detection JSTARS2022 Self-attention, spatial-temporal transformer WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1541,8 +1541,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "ChangeFormer A Transformer-Based Siamese Network for Change Detection IGARSS2022 Transformer Siamese network, attention mechanism DSIFN-CD, and LEVIR-CD",
+                  "title": "ChangeFormer",
+                  "description": "A Transformer-Based Siamese Network for Change Detection IGARSS2022 Transformer Siamese network, attention mechanism DSIFN-CD, and LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1556,8 +1556,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "BIT Remote Sensing Image Change Detection with Transformers TGRS2021 Transformer WHU-CD, DSIFN-CD, LEVIR-CD",
+                  "title": "BIT",
+                  "description": "Remote Sensing Image Change Detection with Transformers TGRS2021 Transformer WHU-CD, DSIFN-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1578,8 +1578,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "Shield Unsupervised Detection of Disaster-Affected Areas by Combining the Strengths of Change Detection and Anomaly Detection: Target for On-Orbit Application JRS2026 On-orbit computing, Unsupervised change detection, anomaly detection Landslide-Brazil, wildfire-Russia, flood-China-Hebi, and deforestation-New Zealand",
+                  "title": "Shield",
+                  "description": "Unsupervised Detection of Disaster-Affected Areas by Combining the Strengths of Change Detection and Anomaly Detection: Target for On-Orbit Application JRS2026 On-orbit computing, Unsupervised change detection, anomaly detection Landslide-Brazil, wildfire-Russia, flood-China-Hebi, and deforestation-New Zealand",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1593,8 +1593,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "RACDNet Towards resolution-arbitrary remote sensing change detection with Spatial-frequency dual domain learning ISPRS P&RS 2025 Resolution-arbitrary change detection; Gradient prior; Dual-domain learning WHU-CD, LEVIR-CD, SYSU-CD, and Google dataset",
+                  "title": "RACDNet",
+                  "description": "Towards resolution-arbitrary remote sensing change detection with Spatial-frequency dual domain learning ISPRS P&RS 2025 Resolution-arbitrary change detection; Gradient prior; Dual-domain learning WHU-CD, LEVIR-CD, SYSU-CD, and Google dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1608,8 +1608,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "RIEM Detecting changes without comparing images: Rules induced change detection in heterogeneous remote sensing images ISPRS P&RS 2025 Heterogeneous data, Multimodal, Energy based model Multi-source data",
+                  "title": "RIEM",
+                  "description": "Detecting changes without comparing images: Rules induced change detection in heterogeneous remote sensing images ISPRS P&RS 2025 Heterogeneous data, Multimodal, Energy based model Multi-source data",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1623,8 +1623,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "Semantic-TemporalNet Semantic-TemporalNet: A Novel Urban Block Change Detection Method Based on Semantic Coherence Analysis TGRS2025 Sentinel-2, time-series semantic coherence, urban renewal Changsha and Wuhan Sentinel-2 imagery",
+                  "title": "Semantic-TemporalNet",
+                  "description": "Semantic-TemporalNet: A Novel Urban Block Change Detection Method Based on Semantic Coherence Analysis TGRS2025 Sentinel-2, time-series semantic coherence, urban renewal Changsha and Wuhan Sentinel-2 imagery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1638,8 +1638,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "TripleS TripleS: Mitigating multi-task learning conflicts for semantic change detection in high-resolution remote sensing imagery ISPRS P&RS 2025 Multi-task learning, Land-cover and land-use HRSCD, SC-SCD7, CC-SCD5",
+                  "title": "TripleS",
+                  "description": "TripleS: Mitigating multi-task learning conflicts for semantic change detection in high-resolution remote sensing imagery ISPRS P&RS 2025 Multi-task learning, Land-cover and land-use HRSCD, SC-SCD7, CC-SCD5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1653,8 +1653,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "PRO-HRSCD Rethinking Semantic Change Detection From a Semantic Alignment Perspective TGRS2025 Feature space alignment, multitask learning, prototype learning SECOND, and Landsat-SCD",
+                  "title": "PRO-HRSCD",
+                  "description": "Rethinking Semantic Change Detection From a Semantic Alignment Perspective TGRS2025 Feature space alignment, multitask learning, prototype learning SECOND, and Landsat-SCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1668,8 +1668,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "STMNet STMNet: Single-Temporal Mask-Based Network for Self-Supervised Hyperspectral Change Detection TGRS2024 hyperspectral image, multiscale feature, single temporal, mask Farmland dataset, Hermiston dataset, Bay dataset",
+                  "title": "STMNet",
+                  "description": "STMNet: Single-Temporal Mask-Based Network for Self-Supervised Hyperspectral Change Detection TGRS2024 hyperspectral image, multiscale feature, single temporal, mask Farmland dataset, Hermiston dataset, Bay dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1683,8 +1683,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "ClearSCD The ClearSCD model: Comprehensively leveraging semantics and change relationships for semantic change detection in high spatial resolution remote sensing imagery ISPRS P&RS 2024 Multi-task learning, contrastive learning, change vector analysis Hi-UCD, LsSCD",
+                  "title": "ClearSCD",
+                  "description": "The ClearSCD model: Comprehensively leveraging semantics and change relationships for semantic change detection in high spatial resolution remote sensing imagery ISPRS P&RS 2024 Multi-task learning, contrastive learning, change vector analysis Hi-UCD, LsSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1698,8 +1698,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "SSLChange SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation TGRS2024 Domain adaption, hierarchical features, image contrastive learning CDD, LEVIR-CD",
+                  "title": "SSLChange",
+                  "description": "SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation TGRS2024 Domain adaption, hierarchical features, image contrastive learning CDD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1713,8 +1713,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "U-Net, U-Net SiamDiff, and U-Net SiamConc A Change Detection Reality Check ICLR2024W Reality Check, Benchmarking WHU-CD, LEVIR-CD",
+                  "title": "U-Net, U-Net SiamDiff, and U-Net SiamConc",
+                  "description": "A Change Detection Reality Check ICLR2024W Reality Check, Benchmarking WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1728,8 +1728,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "I3PE Exchange means change: An unsupervised single-temporal change detection framework based on intra-and inter-image patch exchange ISPRS P&RS 2023 Single-temporal change detection, image patch exchange, adaptive clustering SYSU-CD, SECOND, Wuhan dataset",
+                  "title": "I3PE",
+                  "description": "Exchange means change: An unsupervised single-temporal change detection framework based on intra-and inter-image patch exchange ISPRS P&RS 2023 Single-temporal change detection, image patch exchange, adaptive clustering SYSU-CD, SECOND, Wuhan dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1743,8 +1743,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "A2Net Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention TGRS2023 Lightweight, progressive feature aggregation, supervised Attention WHU-CD, LEVIR-CD and SYSU-CD",
+                  "title": "A2Net",
+                  "description": "Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention TGRS2023 Lightweight, progressive feature aggregation, supervised Attention WHU-CD, LEVIR-CD and SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1758,8 +1758,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "DMINet Change Detection on Remote Sensing Images Using Dual-Branch Multilevel Intertemporal Network TGRS2023 Dual-branch difference acquisition, intertemporal joint-attention, multilevel aggregation WHU-CD, GZ-CD, LEVIR-CD, and SYSU-CD",
+                  "title": "DMINet",
+                  "description": "Change Detection on Remote Sensing Images Using Dual-Branch Multilevel Intertemporal Network TGRS2023 Dual-branch difference acquisition, intertemporal joint-attention, multilevel aggregation WHU-CD, GZ-CD, LEVIR-CD, and SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1773,8 +1773,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "AFCF3D-Net Adjacent-level feature cross-fusion with 3D CNN for remote sensing image change detection TGRS2023 3D CNN, feature cross-fusion, full-scale connection WHU-CD, LEVIR-CD, SYSU-CD",
+                  "title": "AFCF3D-Net",
+                  "description": "Adjacent-level feature cross-fusion with 3D CNN for remote sensing image change detection TGRS2023 3D CNN, feature cross-fusion, full-scale connection WHU-CD, LEVIR-CD, SYSU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1788,8 +1788,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "LightCDNet LightCDNet: Lightweight Change Detection Network Based on VHR Images GRSL2023 Early fusion, lightweight, deep supervised fusion LEVIR-CD",
+                  "title": "LightCDNet",
+                  "description": "LightCDNet: Lightweight Change Detection Network Based on VHR Images GRSL2023 Early fusion, lightweight, deep supervised fusion LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1803,8 +1803,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "USSFC-Net Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images TGRS2023 Ultralightweight, multiscale feature extraction, spatial–spectral feature cooperation CDD, DSIFN-CD, LEVIR-CD",
+                  "title": "USSFC-Net",
+                  "description": "Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images TGRS2023 Ultralightweight, multiscale feature extraction, spatial–spectral feature cooperation CDD, DSIFN-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1818,8 +1818,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "SAR-CD Improved Difference Images for Change Detection Classifiers in SAR Imagery Using Deep Learning TGRS2023 Mapping transformation function, SAR, U-Net SCDD",
+                  "title": "SAR-CD",
+                  "description": "Improved Difference Images for Change Detection Classifiers in SAR Imagery Using Deep Learning TGRS2023 Mapping transformation function, SAR, U-Net SCDD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1833,8 +1833,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "RDPNet RDP-Net: Region detail preserving network for change detection TGRS2022 Training strategy, edge loss, lightweight backbone CDD,LEVIR-CD",
+                  "title": "RDPNet",
+                  "description": "RDP-Net: Region detail preserving network for change detection TGRS2022 Training strategy, edge loss, lightweight backbone CDD,LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1848,8 +1848,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "FFCTL A full-level fused cross-task transfer learning method for building change detection using noise-robust pretrained networks on crowdsourced labels RSE2022 Transfer learning, crowdsourced label,pseudo label ZY-3 building and change detection dataset",
+                  "title": "FFCTL",
+                  "description": "A full-level fused cross-task transfer learning method for building change detection using noise-robust pretrained networks on crowdsourced labels RSE2022 Transfer learning, crowdsourced label,pseudo label ZY-3 building and change detection dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1863,8 +1863,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "SaDL_CD Semantic-aware Dense Representation Learning for Remote Sensing Image Change Detection TGRS2022 Self-supervised learning, semantic-aware representation learning WHU-CD, GZ-CD, LEVIR-CD",
+                  "title": "SaDL_CD",
+                  "description": "Semantic-aware Dense Representation Learning for Remote Sensing Image Change Detection TGRS2022 Self-supervised learning, semantic-aware representation learning WHU-CD, GZ-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1878,8 +1878,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "TinyCD TINYCD: A (Not So) Deep Learning Model For Change Detection Neural Comput & Applic 2022 Lightweight, tiny Model, siamese U-Net architecture, feature interaction WHU-CD, LEVIR-CD",
+                  "title": "TinyCD",
+                  "description": "TINYCD: A (Not So) Deep Learning Model For Change Detection Neural Comput & Applic 2022 Lightweight, tiny Model, siamese U-Net architecture, feature interaction WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1893,8 +1893,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "SDACD An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection PR2022 Supervised Domain Adaptation, Image Adaptation, Feature Adaptation CDD, and WHU-CD",
+                  "title": "SDACD",
+                  "description": "An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection PR2022 Supervised Domain Adaptation, Image Adaptation, Feature Adaptation CDD, and WHU-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1908,8 +1908,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Bi-SRNet Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images TGRS2022 Triple-branch, semantic correlations SECOND",
+                  "title": "Bi-SRNet",
+                  "description": "Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images TGRS2022 Triple-branch, semantic correlations SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1923,8 +1923,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "SemiCD Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images arXiv2022 Semi-supervised, Consistency Regularization WHU-CD, LEVIR-CD",
+                  "title": "SemiCD",
+                  "description": "Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images arXiv2022 Semi-supervised, Consistency Regularization WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1938,8 +1938,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "FCCDN FCCDN: Feature Constraint Network for VHR Image Change Detection ISPRS P&RS 2022 Self-supervised learning, non-local feature pyramid network, dual encoder-decoder backbone WHU-CD, LEVIR-CD, SECOND",
+                  "title": "FCCDN",
+                  "description": "FCCDN: Feature Constraint Network for VHR Image Change Detection ISPRS P&RS 2022 Self-supervised learning, non-local feature pyramid network, dual encoder-decoder backbone WHU-CD, LEVIR-CD, SECOND",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1953,8 +1953,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ChangeStar Change is Everywhere: Single-Temporal Supervised Object Change Detection in Remote Sensing Imagery ICCV2021 Single-temporal supervision, temporal symmetry xBD, SpaceNet2, WHU-CD, LEVIR-CD",
+                  "title": "ChangeStar",
+                  "description": "Change is Everywhere: Single-Temporal Supervised Object Change Detection in Remote Sensing Imagery ICCV2021 Single-temporal supervision, temporal symmetry xBD, SpaceNet2, WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1968,8 +1968,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ChangeOS Building damage assessment for rapid disaster response with a deep object-based semantic change detection framework: from natural disasters to man-made disasters RSE2021 Semantic change detection, disaster response, OBIA xBD, The Beirut port explosion (2020), The Bata military barracks explosion (2021)",
+                  "title": "ChangeOS",
+                  "description": "Building damage assessment for rapid disaster response with a deep object-based semantic change detection framework: from natural disasters to man-made disasters RSE2021 Semantic change detection, disaster response, OBIA xBD, The Beirut port explosion (2020), The Bata military barracks explosion (2021)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1983,8 +1983,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "CEECNet Looking for change? Roll the Dice and demand Attention RS2021 Dice similarity, attention module WHU-CD, LEVIR-CD",
+                  "title": "CEECNet",
+                  "description": "Looking for change? Roll the Dice and demand Attention RS2021 Dice similarity, attention module WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1998,8 +1998,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ESCNet ESCNet: An End-to-End Superpixel-Enhanced Change Detection Network for Very-High-Resolution Remote Sensing Images TNNLS2021 Superpixel segmentation, adaptive superpixel merging SZTAKI, CDD",
+                  "title": "ESCNet",
+                  "description": "ESCNet: An End-to-End Superpixel-Enhanced Change Detection Network for Very-High-Resolution Remote Sensing Images TNNLS2021 Superpixel segmentation, adaptive superpixel merging SZTAKI, CDD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2013,8 +2013,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "SeCo Seasonal Contrast: Unsupervised Pre-Training from Uncurated Remote Sensing Data ICCV2021 Self-supervised learning BigEarthNet, EuroSAT, OSCD",
+                  "title": "SeCo",
+                  "description": "Seasonal Contrast: Unsupervised Pre-Training from Uncurated Remote Sensing Data ICCV2021 Self-supervised learning BigEarthNet, EuroSAT, OSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2028,8 +2028,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "SRCDNet Super-resolution-based Change Detection Network with Stacked Attention Module for Images with Different Resolutions TGRS2021 Super-resolution, metric learning BCDD, CDD, GZ-CD",
+                  "title": "SRCDNet",
+                  "description": "Super-resolution-based Change Detection Network with Stacked Attention Module for Images with Different Resolutions TGRS2021 Super-resolution, metric learning BCDD, CDD, GZ-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2043,8 +2043,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "IAug-CDNet Adversarial Instance Augmentation for Building Change Detection in Remote Sensing Images TGRS2021 Adversarial instance augmentation, synthetic data WHU-CD, LEVIR-CD",
+                  "title": "IAug-CDNet",
+                  "description": "Adversarial Instance Augmentation for Building Change Detection in Remote Sensing Images TGRS2021 Adversarial instance augmentation, synthetic data WHU-CD, LEVIR-CD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2058,8 +2058,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "SNUNet-CD SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images GRSL2021 Fully convolutional siamese network CDD",
+                  "title": "SNUNet-CD",
+                  "description": "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images GRSL2021 Fully convolutional siamese network CDD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2073,8 +2073,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "DDNet Change Detection in Synthetic Aperture Radar Images Using a Dual-Domain Network GRSL2021 SAR, frequency domain Ottawa dataset, Sulzberger dataset, Yellow River dataset",
+                  "title": "DDNet",
+                  "description": "Change Detection in Synthetic Aperture Radar Images Using a Dual-Domain Network GRSL2021 SAR, frequency domain Ottawa dataset, Sulzberger dataset, Yellow River dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2088,8 +2088,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "ACDA Hyperspectral anomaly change detection based on autoencoder JSTARS2021 Hyperspectral, Anomaly Change Detection, Autoencoder Viareggio 2013",
+                  "title": "ACDA",
+                  "description": "Hyperspectral anomaly change detection based on autoencoder JSTARS2021 Hyperspectral, Anomaly Change Detection, Autoencoder Viareggio 2013",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2103,8 +2103,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "FC-EF, FC-Siam-diff, FC-Siam-conc Fully convolutional siamese networks for change detection ICIP2018 Fully Convolutional Siamese Networks SZTAKI, OSCD",
+                  "title": "FC-EF, FC-Siam-diff, FC-Siam-conc",
+                  "description": "Fully convolutional siamese networks for change detection ICIP2018 Fully Convolutional Siamese Networks SZTAKI, OSCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2130,8 +2130,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "PWTT Open access battle damage detection via Pixel-Wise T-Test on Sentinel-1 imagery RSE2025 Probabilistic change detection; Building damage assessment; Armed conflict UNOSAT damage annotation dataset",
+              "title": "PWTT",
+              "description": "Open access battle damage detection via Pixel-Wise T-Test on Sentinel-1 imagery RSE2025 Probabilistic change detection; Building damage assessment; Armed conflict UNOSAT damage annotation dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2145,8 +2145,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "SiROC Spatial Context Awareness for Unsupervised Change Detection in Optical Satellite Images TGRS2021 Multitemporal, optical images, unsupervised, urban analysis OSCD, Beirut Harbor Explosion Dataset, Agriculture Dataset, Alpine Dataset",
+              "title": "SiROC",
+              "description": "Spatial Context Awareness for Unsupervised Change Detection in Optical Satellite Images TGRS2021 Multitemporal, optical images, unsupervised, urban analysis OSCD, Beirut Harbor Explosion Dataset, Agriculture Dataset, Alpine Dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2160,8 +2160,8 @@
             },
             {
               "node_type": "item",
-              "title": "2015",
-              "description": "CCDC Generating synthetic Landsat images based on all available Landsat data: Predicting Landsat surface reflectance at any given time RSE2015 Synthetic, Landsat, Surface reflectance, Time series model Six Landsat scenes at different places in the Conterminous United States",
+              "title": "CCDC",
+              "description": "Generating synthetic Landsat images based on all available Landsat data: Predicting Landsat surface reflectance at any given time RSE2015 Synthetic, Landsat, Surface reflectance, Time series model Six Landsat scenes at different places in the Conterminous United States",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2186,8 +2186,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Deep learning change detection techniques for optical remote sensing imagery: Status, perspectives and challenges JAG2025 Systematically summarizes datasets, theories, and methods of change detection for optical remote sensing imagery, analyzing AI-based algorithms from the perspective of algorithm granularity and discussing challenges and trends in the AI era. Updates are available at daifeng2016/Awesome-Optical-Remote-Sensing-Datasets-and-Methods.",
+          "title": "Systematically summarizes datasets, theories, and methods of change detection for optical remote sensing imagery, analyzing AI-based algorithms from the perspective of algorithm granularity and discussing challenges and trends in the AI era. Updates are available at daifeng2016/Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
+          "description": ". Deep learning change detection techniques for optical remote sensing imagery: Status, perspectives and challenges JAG2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2201,8 +2201,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges RS2020 Reviews the state-of-the-art methods, applications, and challenges of AI for change detection, covering data sources, deep learning frameworks, and unsupervised schemes, and discusses issues like heterogeneous data processing and AI reliability. Updates are available at MinZHANG-WHU/Change-Detection-Review.",
+          "title": "Reviews the state-of-the-art methods, applications, and challenges of AI for change detection, covering data sources, deep learning frameworks, and unsupervised schemes, and discusses issues like heterogeneous data processing and AI reliability. Updates are available at MinZHANG-WHU/Change-Detection-Review",
+          "description": ". Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges RS2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2222,8 +2222,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Land cover DynamicEarthNet Challenge Weakly-Supervised Unsupervised Binary Land Cover Change Detection, Multi-Class Change Detection 54,750 1,024x1,024 3.0 Top1 Solution, Dataset Paper",
+          "title": "Top1 Solution",
+          "description": ", Dataset Paper Land cover DynamicEarthNet Challenge Weakly-Supervised Unsupervised Binary Land Cover Change Detection, Multi-Class Change Detection 54,750 1,024x1,024 3.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2237,8 +2237,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Land cover “昇腾杯”遥感影像智能处理算法大赛 耕地建筑物变化检测 >6,000 512×512 1-2m Top4 Solution, Top5 Solution",
+          "title": "Top4 Solution",
+          "description": ", Top5 Solution Land cover “昇腾杯”遥感影像智能处理算法大赛 耕地建筑物变化检测 >6,000 512×512 1-2m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2252,8 +2252,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Building 遥感图像智能解译技术挑战赛 遥感图像建筑物变化检测 10,000 512×512 - - Top2 Solution, Top3 Solution",
+          "title": "Top2 Solution",
+          "description": ", Top3 Solution Building 遥感图像智能解译技术挑战赛 遥感图像建筑物变化检测 10,000 512×512 - -",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2267,8 +2267,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Land cover 商汤科技首届AI遥感解译大赛 变化检测 4,662 512×512 0.5-3m Top1 Solution",
+          "title": "Top1 Solution",
+          "description": "Land cover 商汤科技首届AI遥感解译大赛 变化检测 4,662 512×512 0.5-3m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2282,8 +2282,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Land cover SpaceNet 7: Multi-Temporal Urban Development Challenge Multi-Temporal Urban Development Challenge - 1,024×1,024 4m Solutions, Dataset Paper",
+          "title": "Solutions",
+          "description": ", Dataset Paper Land cover SpaceNet 7: Multi-Temporal Urban Development Challenge Multi-Temporal Urban Development Challenge - 1,024×1,024 4m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2351,7 +2351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:48:02.949Z",
+    "last_updated": "2026-08-25T05:57:36.758Z",
     "original_repository": "wenhwu/awesome-remote-sensing-change-detection",
     "original_repository_id": 155948788,
     "original_repository_sha": "d315c2e844802cacc8940ef2f74a951a4a68204f",
