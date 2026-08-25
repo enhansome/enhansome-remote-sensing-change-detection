@@ -802,7 +802,7 @@
                     "last_commit": "2025-12-23T02:57:02Z",
                     "owner": "likyoo",
                     "repo": "DynamicEarth",
-                    "stars": 135
+                    "stars": 136
                   }
                 },
                 {
@@ -1326,7 +1326,7 @@
                     "last_commit": "2026-04-24T03:46:33Z",
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 642
+                    "stars": 643
                   }
                 },
                 {
@@ -2351,7 +2351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:36.758Z",
+    "last_updated": "2026-08-25T17:46:43.131Z",
     "original_repository": "wenhwu/awesome-remote-sensing-change-detection",
     "original_repository_id": 155948788,
     "original_repository_sha": "d315c2e844802cacc8940ef2f74a951a4a68204f",
