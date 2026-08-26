@@ -426,7 +426,7 @@
             "last_commit": "2025-11-06T09:48:26Z",
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -817,7 +817,7 @@
                     "last_commit": "2025-11-06T09:48:26Z",
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 136
+                    "stars": 137
                   }
                 },
                 {
@@ -1918,7 +1918,7 @@
                     "last_commit": "2026-02-02T08:23:08Z",
                     "owner": "DingLei14",
                     "repo": "Bi-SRNet",
-                    "stars": 94
+                    "stars": 95
                   }
                 },
                 {
@@ -2343,7 +2343,7 @@
             "last_commit": "2026-08-07T08:47:02Z",
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 162
+            "stars": 164
           }
         }
       ],
@@ -2351,7 +2351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:46:43.131Z",
+    "last_updated": "2026-08-26T19:19:58.806Z",
     "original_repository": "wenhwu/awesome-remote-sensing-change-detection",
     "original_repository_id": 155948788,
     "original_repository_sha": "d315c2e844802cacc8940ef2f74a951a4a68204f",
