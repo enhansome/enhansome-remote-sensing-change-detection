@@ -135,7 +135,7 @@
             "last_commit": "2026-07-04T08:17:10Z",
             "owner": "circleLZY",
             "repo": "JL1-CD",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-03T23:01:38Z",
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 260
+            "stars": 262
           }
         },
         {
@@ -847,7 +847,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -974,7 +974,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -1049,7 +1049,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -1251,7 +1251,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -1266,7 +1266,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -1326,7 +1326,7 @@
                     "last_commit": "2026-04-24T03:46:33Z",
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 643
+                    "stars": 644
                   }
                 },
                 {
@@ -1491,7 +1491,7 @@
                     "last_commit": "2026-08-03T23:01:38Z",
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 260
+                    "stars": 262
                   }
                 },
                 {
@@ -2351,9 +2351,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:58.806Z",
-    "original_repository": "wenhwu/awesome-remote-sensing-change-detection",
-    "original_repository_id": 155948788,
+    "last_updated": "2026-08-27T12:02:07.086Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 155948788,
+      "language": null,
+      "last_commit": "2026-04-16T14:44:49Z",
+      "owner": "wenhwu",
+      "repo": "awesome-remote-sensing-change-detection",
+      "stars": 2312
+    },
     "original_repository_sha": "d315c2e844802cacc8940ef2f74a951a4a68204f",
     "enhanced_repository": "enhansome/enhansome-remote-sensing-change-detection",
     "enhanced_repository_description": null,
