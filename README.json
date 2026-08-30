@@ -259,7 +259,7 @@
             "open_issues": 1,
             "owner": "bobo59",
             "repo": "MSRSCD",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -947,7 +947,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "change-detection",
               "classification",
@@ -1237,7 +1237,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 137,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3246,7 +3246,7 @@
                     "open_issues": 10,
                     "owner": "rcdaudt",
                     "repo": "fully_convolutional_change_detection",
-                    "stars": 233,
+                    "stars": 234,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:45:46.645Z",
+    "last_updated": "2026-08-30T19:50:28.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
