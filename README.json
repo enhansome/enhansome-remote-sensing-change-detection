@@ -877,7 +877,7 @@
             "open_issues": 14,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1992,7 +1992,7 @@
                     "open_issues": 14,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3279,7 +3279,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:50:28.986Z",
+    "last_updated": "2026-08-31T21:54:39.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3628,7 +3628,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2312,
+      "stars": 2314,
       "topics": [
         "awesome",
         "change-detection",
