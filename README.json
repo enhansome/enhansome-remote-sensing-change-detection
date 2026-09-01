@@ -67,7 +67,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-05-05T15:06:35Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "abdelpy",
             "repo": "FOTBCD-datasets",
             "stars": 18,
@@ -209,7 +209,7 @@
             "open_issues": 5,
             "owner": "circleLZY",
             "repo": "JL1-CD",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "benchmark",
               "change-detection",
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -874,10 +874,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-04-20T03:23:02Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -947,7 +947,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "change-detection",
               "classification",
@@ -1034,7 +1034,7 @@
             "open_issues": 1,
             "owner": "Bobholamovic",
             "repo": "ChangeDetectionToolbox",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "change-detection",
               "matlab",
@@ -1087,7 +1087,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-07-03T15:06:30Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "Yu-Zhouz",
                     "repo": "SegChange-R1",
                     "stars": 48,
@@ -1237,7 +1237,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1631,7 +1631,7 @@
                     "open_issues": 15,
                     "owner": "wgcban",
                     "repo": "ddpm-cd",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": [
                       "change-detection",
                       "climate-change",
@@ -1989,10 +1989,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-04-20T03:23:02Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 221,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2635,7 +2635,7 @@
                     "open_issues": 1,
                     "owner": "isaaccorley",
                     "repo": "a-change-detection-reality-check",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": [
                       "change-detection",
                       "deep-learning",
@@ -2815,7 +2815,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2023-11-08T12:21:18Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "Chnja",
                     "repo": "RDPNet",
                     "stars": 37,
@@ -2952,7 +2952,7 @@
                     "open_issues": 5,
                     "owner": "wgcban",
                     "repo": "SemiCD",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": [
                       "change-detection",
                       "consistency",
@@ -2979,7 +2979,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2022-07-31T02:30:25Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "chenpan0615",
                     "repo": "FCCDN_pytorch",
                     "stars": 70,
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:54:39.588Z",
+    "last_updated": "2026-09-01T19:56:39.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3628,7 +3628,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2314,
+      "stars": 2315,
       "topics": [
         "awesome",
         "change-detection",
