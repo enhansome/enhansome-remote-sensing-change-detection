@@ -67,7 +67,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-05-05T15:06:35Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "abdelpy",
             "repo": "FOTBCD-datasets",
             "stars": 18,
@@ -301,7 +301,7 @@
             "open_issues": 2,
             "owner": "oshholail",
             "repo": "EGY-BCD",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "liumency",
             "repo": "CropLand-CD",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -760,7 +760,7 @@
             "open_issues": 12,
             "owner": "CAU-HE",
             "repo": "CMCDNet",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "ChangeDetectionRepository",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "change-detection",
               "deep-learning",
@@ -1087,7 +1087,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-07-03T15:06:30Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Yu-Zhouz",
                     "repo": "SegChange-R1",
                     "stars": 48,
@@ -1237,7 +1237,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 139,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1351,7 +1351,7 @@
                     "open_issues": 14,
                     "owner": "dyzy41",
                     "repo": "ChangeCLIP",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1398,7 +1398,7 @@
                     "open_issues": 4,
                     "owner": "DingLei14",
                     "repo": "SAM-CD",
-                    "stars": 227,
+                    "stars": 228,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1813,7 +1813,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2403,7 +2403,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 512,
+                    "stars": 513,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2815,7 +2815,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2023-11-08T12:21:18Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Chnja",
                     "repo": "RDPNet",
                     "stars": 37,
@@ -2979,7 +2979,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2022-07-31T02:30:25Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "chenpan0615",
                     "repo": "FCCDN_pytorch",
                     "stars": 70,
@@ -3353,7 +3353,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3374,7 +3374,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3542,7 +3542,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3563,7 +3563,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:56:39.654Z",
+    "last_updated": "2026-09-02T19:48:36.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
