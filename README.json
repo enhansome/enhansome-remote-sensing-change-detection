@@ -1216,7 +1216,7 @@
                     "open_issues": 5,
                     "owner": "likyoo",
                     "repo": "DynamicEarth",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:48:36.763Z",
+    "last_updated": "2026-09-03T19:51:47.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3628,7 +3628,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2315,
+      "stars": 2316,
       "topics": [
         "awesome",
         "change-detection",
