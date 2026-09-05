@@ -471,7 +471,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -492,7 +492,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -708,7 +708,7 @@
             "open_issues": 4,
             "owner": "jie666-6",
             "repo": "UrbanSARFloods",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "benchmark",
               "coherence",
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:37:50.957Z",
+    "last_updated": "2026-09-05T19:02:58.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
