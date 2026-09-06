@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "liumency",
             "repo": "CropLand-CD",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 886,
+            "stars": 887,
             "topics": [
               "bit",
               "change-detection",
@@ -2252,7 +2252,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 886,
+                    "stars": 887,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3176,7 +3176,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 886,
+                    "stars": 887,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:02:58.679Z",
+    "last_updated": "2026-09-06T19:13:21.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3628,7 +3628,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2317,
+      "stars": 2318,
       "topics": [
         "awesome",
         "change-detection",
