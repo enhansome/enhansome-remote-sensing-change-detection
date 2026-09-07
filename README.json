@@ -597,7 +597,7 @@
             "open_issues": 2,
             "owner": "Daisy-7",
             "repo": "Hi-UCD-S",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -708,7 +708,7 @@
             "open_issues": 4,
             "owner": "jie666-6",
             "repo": "UrbanSARFloods",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "benchmark",
               "coherence",
@@ -1216,7 +1216,7 @@
                     "open_issues": 5,
                     "owner": "likyoo",
                     "repo": "DynamicEarth",
-                    "stars": 137,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1237,7 +1237,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1351,7 +1351,7 @@
                     "open_issues": 14,
                     "owner": "dyzy41",
                     "repo": "ChangeCLIP",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1398,7 +1398,7 @@
                     "open_issues": 4,
                     "owner": "DingLei14",
                     "repo": "SAM-CD",
-                    "stars": 228,
+                    "stars": 229,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2076,7 +2076,7 @@
                     "open_issues": 3,
                     "owner": "JayParanjape",
                     "repo": "M-CD",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2370,7 +2370,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 620,
+                    "stars": 621,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:13:21.735Z",
+    "last_updated": "2026-09-07T20:35:50.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
