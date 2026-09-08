@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1090,7 +1090,7 @@
                     "open_issues": 4,
                     "owner": "Yu-Zhouz",
                     "repo": "SegChange-R1",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1456,7 +1456,7 @@
                     "open_issues": 0,
                     "owner": "Jiahuiqu",
                     "repo": "CT2Net",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1665,7 +1665,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "BTC-change-detection",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "btc",
                       "change-detection",
@@ -2370,7 +2370,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 621,
+                    "stars": 622,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -3602,7 +3602,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "awesome",
               "change-detection",
@@ -3616,7 +3616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:35:50.857Z",
+    "last_updated": "2026-09-08T19:55:44.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3628,7 +3628,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2318,
+      "stars": 2324,
       "topics": [
         "awesome",
         "change-detection",
