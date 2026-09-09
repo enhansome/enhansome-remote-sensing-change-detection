@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "tangkai-RS",
             "repo": "DreamCD",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "change-detection",
               "diffusion-models",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "fitzpchao",
             "repo": "BANDON",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -534,7 +534,7 @@
             "open_issues": 9,
             "owner": "ShaoRuizhe",
             "repo": "SUNet-change_detection",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -898,7 +898,7 @@
             "open_issues": 9,
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 887,
+            "stars": 889,
             "topics": [
               "bit",
               "change-detection",
@@ -1053,6 +1053,39 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "MaSoN",
+                  "description": "Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations TGRS2026 DINOv3 Unsupervised Change Detection SYSU-CD, LEVIR-CD, GVLM, CLCD, OSCD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[TGRS 2026] Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations",
+                    "homepage": null,
+                    "id": 1166464068,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-07T10:53:08Z",
+                    "open_issues": 0,
+                    "owner": "blaz-r",
+                    "repo": "mason_cd",
+                    "stars": 16,
+                    "topics": [
+                      "change-detection",
+                      "clcd",
+                      "deep-learning",
+                      "earth-observation",
+                      "gvlm",
+                      "levir-cd",
+                      "oscd",
+                      "remote-sensing",
+                      "sysu",
+                      "tgrs",
+                      "unsupervised-learning"
+                    ]
+                  },
+                  "first_seen": "2026-09-09T19:47:08.410Z"
+                },
                 {
                   "node_type": "item",
                   "title": "GeoVLM-R1",
@@ -1279,7 +1312,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1426,7 +1459,7 @@
                     "open_issues": 3,
                     "owner": "tangkai-RS",
                     "repo": "DreamCD",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": [
                       "change-detection",
                       "diffusion-models",
@@ -1477,7 +1510,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1585,7 +1618,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1813,7 +1846,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1908,7 +1941,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1929,7 +1962,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2252,7 +2285,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 887,
+                    "stars": 889,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2280,7 +2313,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3105,7 +3138,7 @@
                     "open_issues": 18,
                     "owner": "ServiceNow",
                     "repo": "seasonal-contrast",
-                    "stars": 185,
+                    "stars": 184,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3176,7 +3209,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 887,
+                    "stars": 889,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3374,7 +3407,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3563,7 +3596,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3602,7 +3635,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "awesome",
               "change-detection",
@@ -3616,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:55:44.612Z",
+    "last_updated": "2026-09-09T19:47:08.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3624,11 +3657,11 @@
       "id": 155948788,
       "language": null,
       "license": null,
-      "last_commit": "2026-04-16T14:44:49Z",
+      "last_commit": "2026-09-09T08:17:49Z",
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2324,
+      "stars": 2325,
       "topics": [
         "awesome",
         "change-detection",
@@ -3637,7 +3670,7 @@
         "remote-sensing"
       ]
     },
-    "original_repository_sha": "d315c2e844802cacc8940ef2f74a951a4a68204f",
+    "original_repository_sha": "5d8244da408913113d4368f6d728d88de1e8d323",
     "enhanced_repository": "enhansome/enhansome-remote-sensing-change-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Datasets with stars"
