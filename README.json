@@ -70,7 +70,7 @@
             "open_issues": 1,
             "owner": "abdelpy",
             "repo": "FOTBCD-datasets",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "liumency",
             "repo": "CropLand-CD",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -781,7 +781,7 @@
             "open_issues": 9,
             "owner": "Orion-AI-Lab",
             "repo": "KuroSiwo",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "computer-vision",
               "flood",
@@ -1069,7 +1069,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "change-detection",
                       "clcd",
@@ -1270,7 +1270,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3312,7 +3312,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 68,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:47:08.410Z",
+    "last_updated": "2026-09-10T19:43:47.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
