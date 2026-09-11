@@ -1060,12 +1060,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[TGRS 2026] Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations",
+                    "description": "[IEEE TGRS 2026] Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations",
                     "homepage": null,
                     "id": 1166464068,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T10:53:08Z",
+                    "last_commit": "2026-09-11T14:00:12Z",
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:43:47.464Z",
+    "last_updated": "2026-09-11T19:44:55.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3661,7 +3661,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2325,
+      "stars": 2326,
       "topics": [
         "awesome",
         "change-detection",
