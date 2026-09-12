@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -534,7 +534,7 @@
             "open_issues": 9,
             "owner": "ShaoRuizhe",
             "repo": "SUNet-change_detection",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -877,7 +877,7 @@
             "open_issues": 15,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "bit",
               "change-detection",
@@ -1270,7 +1270,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 140,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1846,7 +1846,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2025,7 +2025,7 @@
                     "open_issues": 15,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2285,7 +2285,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 889,
+                    "stars": 890,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3063,7 +3063,7 @@
                     "open_issues": 3,
                     "owner": "Z-Zheng",
                     "repo": "ChangeOS",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": [
                       "building-damage-assessment",
                       "change-detection",
@@ -3209,7 +3209,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 889,
+                    "stars": 890,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:44:55.009Z",
+    "last_updated": "2026-09-12T19:23:49.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
