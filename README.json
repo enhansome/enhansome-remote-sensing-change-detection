@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "bit",
               "change-detection",
@@ -1431,7 +1431,7 @@
                     "open_issues": 4,
                     "owner": "DingLei14",
                     "repo": "SAM-CD",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2285,7 +2285,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2403,7 +2403,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 622,
+                    "stars": 623,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -2985,7 +2985,7 @@
                     "open_issues": 5,
                     "owner": "wgcban",
                     "repo": "SemiCD",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": [
                       "change-detection",
                       "consistency",
@@ -3209,7 +3209,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:23:49.390Z",
+    "last_updated": "2026-09-13T19:29:20.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3661,7 +3661,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2326,
+      "stars": 2327,
       "topics": [
         "awesome",
         "change-detection",
