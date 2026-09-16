@@ -1006,7 +1006,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "ChangeDetectionRepository",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "change-detection",
               "deep-learning",
@@ -1123,7 +1123,7 @@
                     "open_issues": 4,
                     "owner": "Yu-Zhouz",
                     "repo": "SegChange-R1",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1405,7 +1405,7 @@
                     "open_issues": 6,
                     "owner": "likyoo",
                     "repo": "BAN",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "change-detection",
                       "computer-vision",
@@ -1664,7 +1664,7 @@
                     "open_issues": 16,
                     "owner": "wgcban",
                     "repo": "ddpm-cd",
-                    "stars": 349,
+                    "stars": 350,
                     "topics": [
                       "change-detection",
                       "climate-change",
@@ -1698,7 +1698,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "BTC-change-detection",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": [
                       "btc",
                       "change-detection",
@@ -2619,7 +2619,7 @@
                     "open_issues": 3,
                     "owner": "tangkai-RS",
                     "repo": "ClearSCD",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "change-detection",
                       "computer-vision",
@@ -3631,7 +3631,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-07T08:47:02Z",
+            "last_commit": "2026-09-16T08:57:36Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:15:56.325Z",
+    "last_updated": "2026-09-16T20:09:47.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
