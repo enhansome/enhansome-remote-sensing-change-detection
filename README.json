@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "fitzpchao",
             "repo": "BANDON",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -471,7 +471,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -492,7 +492,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "bit",
               "change-detection",
@@ -947,7 +947,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "change-detection",
               "classification",
@@ -1069,7 +1069,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": [
                       "change-detection",
                       "clcd",
@@ -1102,7 +1102,7 @@
                     "open_issues": 3,
                     "owner": "mustansarfiaz",
                     "repo": "GeoVLM-R1-Toolkit",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1207,7 +1207,7 @@
                     "open_issues": 3,
                     "owner": "dyzy41",
                     "repo": "PeftCD",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1405,7 +1405,7 @@
                     "open_issues": 6,
                     "owner": "likyoo",
                     "repo": "BAN",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "change-detection",
                       "computer-vision",
@@ -1698,7 +1698,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "BTC-change-detection",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": [
                       "btc",
                       "change-detection",
@@ -1846,7 +1846,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2130,7 +2130,7 @@
                     "open_issues": 1,
                     "owner": "mustansarfiaz",
                     "repo": "ScratchFormer",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2285,7 +2285,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3209,7 +3209,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 890,
+                    "stars": 891,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:09:47.229Z",
+    "last_updated": "2026-09-17T20:21:06.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3661,7 +3661,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2332,
+      "stars": 2333,
       "topics": [
         "awesome",
         "change-detection",
