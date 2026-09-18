@@ -1207,7 +1207,7 @@
                     "open_issues": 3,
                     "owner": "dyzy41",
                     "repo": "PeftCD",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2004,7 +2004,7 @@
                     "open_issues": 5,
                     "owner": "zmoka-zht",
                     "repo": "CDMamba",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2046,7 +2046,7 @@
                     "open_issues": 9,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 645,
+                    "stars": 647,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3312,7 +3312,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3635,7 +3635,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "change-detection",
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:21:06.690Z",
+    "last_updated": "2026-09-18T19:38:37.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
