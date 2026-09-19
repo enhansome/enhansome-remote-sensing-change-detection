@@ -2004,7 +2004,7 @@
                     "open_issues": 5,
                     "owner": "zmoka-zht",
                     "repo": "CDMamba",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3649,7 +3649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:38:37.258Z",
+    "last_updated": "2026-09-19T19:20:04.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3661,7 +3661,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2333,
+      "stars": 2335,
       "topics": [
         "awesome",
         "change-detection",
