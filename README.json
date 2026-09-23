@@ -576,7 +576,7 @@
             "open_issues": 6,
             "owner": "GeoZcx",
             "repo": "A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -898,7 +898,7 @@
             "open_issues": 9,
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1312,7 +1312,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1510,7 +1510,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1559,27 +1559,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "UP-Diff",
-                  "description": "UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction GRSL2024 Cross-attention, latent diffusion model, urban planning LEVIR-CD, SYSU-CD",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Source code for UP-Diff",
-                    "homepage": null,
-                    "id": 829387342,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-11-26T07:39:42Z",
-                    "open_issues": 4,
-                    "owner": "zeyuwang-zju",
-                    "repo": "UP-Diff",
-                    "stars": 15,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:58:58.235Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ChangeDiff",
                   "description": "ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model AAAI2025 Diffusion models, text-to-layout model, multi-class distribution-guided text prompts SECOND, Landsat-SCD, and HRSCD",
                   "children": [],
@@ -1618,7 +1597,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1867,7 +1846,7 @@
                     "open_issues": 2,
                     "owner": "Henryjiepanli",
                     "repo": "UA-BCD",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1941,7 +1920,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1962,7 +1941,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2046,7 +2025,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2313,7 +2292,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3312,7 +3291,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3635,7 +3614,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "awesome",
               "change-detection",
@@ -3649,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:12:35.706Z",
+    "last_updated": "2026-09-23T20:24:56.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3661,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2341,
+      "stars": 2343,
       "topics": [
         "awesome",
         "change-detection",
