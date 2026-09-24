@@ -829,7 +829,7 @@
             "open_issues": 0,
             "owner": "geodrak",
             "repo": "OMBRIA",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -898,7 +898,7 @@
             "open_issues": 9,
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 269,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1312,7 +1312,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1510,7 +1510,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1597,7 +1597,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1920,7 +1920,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1941,7 +1941,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2292,7 +2292,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3501,7 +3501,7 @@
             "open_issues": 4,
             "owner": "LiheYoung",
             "repo": "SenseEarth2020-ChangeDetection",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "change-detection",
               "remote-sensing-image",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:24:56.879Z",
+    "last_updated": "2026-09-24T20:31:18.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
