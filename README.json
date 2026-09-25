@@ -708,7 +708,7 @@
             "open_issues": 4,
             "owner": "jie666-6",
             "repo": "UrbanSARFloods",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "benchmark",
               "coherence",
@@ -1006,7 +1006,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "ChangeDetectionRepository",
-            "stars": 537,
+            "stars": 536,
             "topics": [
               "change-detection",
               "deep-learning",
@@ -3610,7 +3610,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-20T15:35:39Z",
+            "last_commit": "2026-09-25T05:44:46Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:31:18.068Z",
+    "last_updated": "2026-09-25T20:30:54.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
