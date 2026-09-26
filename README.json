@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "liumency",
             "repo": "CropLand-CD",
-            "stars": 97,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1677,7 +1677,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "BTC-change-detection",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "btc",
                       "change-detection",
@@ -3258,7 +3258,7 @@
                     "open_issues": 10,
                     "owner": "rcdaudt",
                     "repo": "fully_convolutional_change_detection",
-                    "stars": 236,
+                    "stars": 235,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3527,7 +3527,7 @@
             "open_issues": 2,
             "owner": "SpaceNetChallenge",
             "repo": "SpaceNet7_Multi-Temporal_Solutions",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:30:54.045Z",
+    "last_updated": "2026-09-26T19:53:35.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
