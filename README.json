@@ -1643,7 +1643,7 @@
                     "open_issues": 16,
                     "owner": "wgcban",
                     "repo": "ddpm-cd",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": [
                       "change-detection",
                       "climate-change",
@@ -2025,7 +2025,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 648,
+                    "stars": 649,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2355,7 +2355,7 @@
                     "open_issues": 1,
                     "owner": "shinianzhihou",
                     "repo": "ChangeDetection",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": [
                       "change-detection",
                       "pytorch",
@@ -2382,7 +2382,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 622,
+                    "stars": 623,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -2415,7 +2415,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 514,
+                    "stars": 516,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3527,7 +3527,7 @@
             "open_issues": 2,
             "owner": "SpaceNetChallenge",
             "repo": "SpaceNet7_Multi-Temporal_Solutions",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:53:35.054Z",
+    "last_updated": "2026-09-27T20:09:51.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
