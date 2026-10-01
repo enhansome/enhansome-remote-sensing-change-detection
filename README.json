@@ -112,7 +112,7 @@
             "open_issues": 0,
             "owner": "long123524",
             "repo": "CPGNet",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "multitask-learning",
               "prior-guidance",
@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "fitzpchao",
             "repo": "BANDON",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -406,7 +406,7 @@
             "open_issues": 9,
             "owner": "liumency",
             "repo": "CropLand-CD",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -877,7 +877,7 @@
             "open_issues": 16,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -919,7 +919,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "bit",
               "change-detection",
@@ -1757,7 +1757,7 @@
                     "open_issues": 0,
                     "owner": "long123524",
                     "repo": "CPGNet",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "multitask-learning",
                       "prior-guidance",
@@ -1893,7 +1893,7 @@
                     "open_issues": 0,
                     "owner": "long123524",
                     "repo": "HGINet-torch",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "graph-learning",
                       "high-resolution-image",
@@ -2004,7 +2004,7 @@
                     "open_issues": 16,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2264,7 +2264,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2415,7 +2415,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 518,
+                    "stars": 519,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2964,7 +2964,7 @@
                     "open_issues": 5,
                     "owner": "wgcban",
                     "repo": "SemiCD",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "change-detection",
                       "consistency",
@@ -3188,7 +3188,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:26:12.469Z",
+    "last_updated": "2026-10-01T21:50:29.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2344,
+      "stars": 2345,
       "topics": [
         "awesome",
         "change-detection",
