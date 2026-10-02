@@ -573,7 +573,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-12-21T02:11:38Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "GeoZcx",
             "repo": "A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images",
             "stars": 234,
@@ -2901,7 +2901,7 @@
                     "open_issues": 3,
                     "owner": "AndreaCodegoni",
                     "repo": "Tiny_model_4_CD",
-                    "stars": 133,
+                    "stars": 134,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3610,7 +3610,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-25T05:44:46Z",
+            "last_commit": "2026-10-02T03:35:10Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:50:29.635Z",
+    "last_updated": "2026-10-02T21:20:01.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2345,
+      "stars": 2347,
       "topics": [
         "awesome",
         "change-detection",
