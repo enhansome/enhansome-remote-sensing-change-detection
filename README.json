@@ -1825,7 +1825,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2025,7 +2025,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 649,
+                    "stars": 650,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2201,7 +2201,7 @@
                     "open_issues": 0,
                     "owner": "mxbh",
                     "repo": "mapformer",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3610,7 +3610,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T03:35:10Z",
+            "last_commit": "2026-10-03T11:01:14Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:46.826Z",
+    "last_updated": "2026-10-03T19:56:28.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
