@@ -934,7 +934,7 @@
         {
           "node_type": "item",
           "title": "PaddleRS",
-          "description": null,
+          "description": "PaddlePaddle/PaddleRS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -967,7 +967,7 @@
         {
           "node_type": "item",
           "title": "A remote sensing toolkit based on PaddlePaddle that supports change detection among other tasks, providing dedicated models (e.g., BIT, FarSeg), large-image processing capabilities, and practical tutorials for analyzing temporal land cover differences. The PyTorch version is called CDLab",
-          "description": ".",
+          "description": "Bobholamovic/CDLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:20:01.221Z",
+    "last_updated": "2026-10-03T05:03:46.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
