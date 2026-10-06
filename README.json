@@ -3015,7 +3015,7 @@
                     "open_issues": 4,
                     "owner": "Z-Zheng",
                     "repo": "ChangeStar",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": [
                       "change-detection",
                       "computer-vision",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:16.928Z",
+    "last_updated": "2026-10-06T21:39:00.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
