@@ -1962,7 +1962,7 @@
                     "open_issues": 2,
                     "owner": "zmoka-zht",
                     "repo": "BiFA",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3614,7 +3614,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "awesome",
               "change-detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:10:23.493Z",
+    "last_updated": "2026-10-06T10:29:16.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2347,
+      "stars": 2348,
       "topics": [
         "awesome",
         "change-detection",
