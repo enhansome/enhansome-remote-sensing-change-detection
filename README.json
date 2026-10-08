@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -829,7 +829,7 @@
             "open_issues": 0,
             "owner": "geodrak",
             "repo": "OMBRIA",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "ChangeDetectionRepository",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "change-detection",
               "deep-learning",
@@ -1207,7 +1207,7 @@
                     "open_issues": 3,
                     "owner": "dyzy41",
                     "repo": "PeftCD",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1804,7 +1804,7 @@
                     "open_issues": 1,
                     "owner": "liuxuanguang",
                     "repo": "GSTM-SCD",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2382,7 +2382,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 625,
+                    "stars": 626,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -2415,7 +2415,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 519,
+                    "stars": 520,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3610,7 +3610,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-03T11:01:14Z",
+            "last_commit": "2026-10-08T09:15:51Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:00:18.971Z",
+    "last_updated": "2026-10-08T22:06:27.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2348,
+      "stars": 2351,
       "topics": [
         "awesome",
         "change-detection",
