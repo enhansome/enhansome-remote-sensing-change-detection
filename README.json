@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -427,7 +427,7 @@
             "open_issues": 12,
             "owner": "Chen-Yang-Liu",
             "repo": "RSICC",
-            "stars": 142,
+            "stars": 144,
             "topics": [
               "remote-sensing-image-change-captioning"
             ]
@@ -1165,7 +1165,7 @@
                     "open_issues": 2,
                     "owner": "NK-JittorCV",
                     "repo": "ViTP",
-                    "stars": 187,
+                    "stars": 186,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1801,7 +1801,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-09-30T00:51:45Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "liuxuanguang",
                     "repo": "GSTM-SCD",
                     "stars": 27,
@@ -3610,7 +3610,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-08T09:15:51Z",
+            "last_commit": "2026-10-09T08:32:40Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:06:27.833Z",
+    "last_updated": "2026-10-09T21:42:18.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2351,
+      "stars": 2352,
       "topics": [
         "awesome",
         "change-detection",
