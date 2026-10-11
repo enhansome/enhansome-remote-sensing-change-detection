@@ -427,7 +427,7 @@
             "open_issues": 12,
             "owner": "Chen-Yang-Liu",
             "repo": "RSICC",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "remote-sensing-image-change-captioning"
             ]
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -2025,7 +2025,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 649,
+                    "stars": 650,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:34:31.830Z",
+    "last_updated": "2026-10-11T20:58:20.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3637,10 +3637,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T08:17:49Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2353,
+      "stars": 2355,
       "topics": [
         "awesome",
         "change-detection",
