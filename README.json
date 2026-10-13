@@ -947,7 +947,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "change-detection",
               "classification",
@@ -1034,7 +1034,7 @@
             "open_issues": 1,
             "owner": "Bobholamovic",
             "repo": "ChangeDetectionToolbox",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "change-detection",
               "matlab",
@@ -1249,7 +1249,7 @@
                     "open_issues": 5,
                     "owner": "likyoo",
                     "repo": "DynamicEarth",
-                    "stars": 141,
+                    "stars": 142,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:37:52.057Z",
+    "last_updated": "2026-10-13T21:51:44.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 3,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2355,
+      "stars": 2356,
       "topics": [
         "awesome",
         "change-detection",
