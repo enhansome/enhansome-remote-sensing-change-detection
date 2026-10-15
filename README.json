@@ -594,7 +594,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-03T02:50:08Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Daisy-7",
             "repo": "Hi-UCD-S",
             "stars": 53,
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -898,7 +898,7 @@
             "open_issues": 9,
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 270,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1312,7 +1312,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1510,7 +1510,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1597,7 +1597,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1920,7 +1920,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1941,7 +1941,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2025,7 +2025,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 651,
+                    "stars": 652,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2292,7 +2292,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2704,7 +2704,7 @@
                     "open_issues": 3,
                     "owner": "guanyuezhen",
                     "repo": "A2Net",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3501,7 +3501,7 @@
             "open_issues": 4,
             "owner": "LiheYoung",
             "repo": "SenseEarth2020-ChangeDetection",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "change-detection",
               "remote-sensing-image",
@@ -3614,7 +3614,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "awesome",
               "change-detection",
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:43:29.488Z",
+    "last_updated": "2026-10-15T20:21:18.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3640,7 +3640,7 @@
       "open_issues": 3,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2358,
+      "stars": 2359,
       "topics": [
         "awesome",
         "change-detection",
