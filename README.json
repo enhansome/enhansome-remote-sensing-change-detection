@@ -209,7 +209,7 @@
             "open_issues": 5,
             "owner": "circleLZY",
             "repo": "JL1-CD",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "benchmark",
               "change-detection",
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -1228,7 +1228,7 @@
                     "open_issues": 1,
                     "owner": "DREAMXFAR",
                     "repo": "SA-CDNet",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1825,7 +1825,7 @@
                     "open_issues": 3,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3628,7 +3628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:57:56.256Z",
+    "last_updated": "2026-10-17T19:25:52.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3637,10 +3637,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T08:17:49Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2360,
+      "stars": 2361,
       "topics": [
         "awesome",
         "change-detection",
