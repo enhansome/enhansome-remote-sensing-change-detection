@@ -733,14 +733,27 @@
             "description": "Cross-Modal Change Detection Using Historical Land Use Base Maps and Current Remote Sensing Images",
             "homepage": null,
             "id": 747027051,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-07-27T09:29:18Z",
-            "open_issues": 2,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-19T14:45:26Z",
+            "open_issues": 0,
             "owner": "whudk",
             "repo": "EVLab-CMCD",
             "stars": 10,
-            "topics": []
+            "topics": [
+              "change-detection",
+              "computer-vision",
+              "cross-modal-change-detection",
+              "deep-learning",
+              "earth-observation",
+              "image",
+              "land-use",
+              "map",
+              "map-image-change-detection",
+              "pytorch",
+              "remote-sensing",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
         },
@@ -1165,7 +1178,7 @@
                     "open_issues": 2,
                     "owner": "NK-JittorCV",
                     "repo": "ViTP",
-                    "stars": 186,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2025,7 +2038,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 652,
+                    "stars": 653,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3365,7 +3378,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3554,7 +3567,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3614,7 +3627,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 170,
+            "stars": 169,
             "topics": [
               "awesome",
               "change-detection",
@@ -3628,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:26:41.080Z",
+    "last_updated": "2026-10-19T21:33:01.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
