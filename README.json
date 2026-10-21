@@ -794,7 +794,7 @@
             "open_issues": 9,
             "owner": "Orion-AI-Lab",
             "repo": "KuroSiwo",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "computer-vision",
               "flood",
@@ -2368,7 +2368,7 @@
                     "open_issues": 1,
                     "owner": "shinianzhihou",
                     "repo": "ChangeDetection",
-                    "stars": 170,
+                    "stars": 169,
                     "topics": [
                       "change-detection",
                       "pytorch",
@@ -3623,7 +3623,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-20T05:20:11Z",
+            "last_commit": "2026-10-21T09:37:33Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:37:39.689Z",
+    "last_updated": "2026-10-21T20:38:51.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2361,
+      "stars": 2362,
       "topics": [
         "awesome",
         "change-detection",
