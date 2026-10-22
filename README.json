@@ -427,7 +427,7 @@
             "open_issues": 12,
             "owner": "Chen-Yang-Liu",
             "repo": "RSICC",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "remote-sensing-image-change-captioning"
             ]
@@ -890,7 +890,7 @@
             "open_issues": 16,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 897,
+            "stars": 896,
             "topics": [
               "bit",
               "change-detection",
@@ -2017,7 +2017,7 @@
                     "open_issues": 16,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 897,
+                    "stars": 896,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2395,7 +2395,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 627,
+                    "stars": 626,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -2801,7 +2801,7 @@
                     "open_issues": 5,
                     "owner": "SUST-reynole",
                     "repo": "USSFC-Net",
-                    "stars": 45,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2977,7 +2977,7 @@
                     "open_issues": 5,
                     "owner": "wgcban",
                     "repo": "SemiCD",
-                    "stars": 155,
+                    "stars": 154,
                     "topics": [
                       "change-detection",
                       "consistency",
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 897,
+                    "stars": 896,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:38:51.460Z",
+    "last_updated": "2026-10-22T20:34:16.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
