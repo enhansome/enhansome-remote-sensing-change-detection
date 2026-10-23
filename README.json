@@ -2395,7 +2395,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 626,
+                    "stars": 627,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -2428,7 +2428,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 520,
+                    "stars": 521,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2639,7 +2639,7 @@
                     "open_issues": 1,
                     "owner": "MarsZhaoYT",
                     "repo": "SSLChange",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:34:16.362Z",
+    "last_updated": "2026-10-23T20:28:58.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
