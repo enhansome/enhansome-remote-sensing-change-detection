@@ -2038,7 +2038,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2326,7 +2326,7 @@
                     "open_issues": 0,
                     "owner": "ZSVOS",
                     "repo": "FHD",
-                    "stars": 18,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3130,7 +3130,7 @@
                     "open_issues": 18,
                     "owner": "ServiceNow",
                     "repo": "seasonal-contrast",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:30:39.696Z",
+    "last_updated": "2026-10-25T19:39:40.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
