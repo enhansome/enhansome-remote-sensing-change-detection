@@ -185,7 +185,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-01T03:35:37Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zmoka-zht",
             "repo": "FoBa",
             "stars": 38,
@@ -209,7 +209,7 @@
             "open_issues": 5,
             "owner": "circleLZY",
             "repo": "JL1-CD",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "benchmark",
               "change-detection",
@@ -645,7 +645,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 260,
+            "stars": 262,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 897,
+            "stars": 900,
             "topics": [
               "bit",
               "change-detection",
@@ -1793,7 +1793,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-01T03:35:37Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "zmoka-zht",
                     "repo": "FoBa",
                     "stars": 38,
@@ -2038,7 +2038,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 897,
+                    "stars": 900,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2395,7 +2395,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 897,
+                    "stars": 900,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3627,7 +3627,7 @@
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "awesome",
               "change-detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:39:40.659Z",
+    "last_updated": "2026-10-26T21:38:39.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2362,
+      "stars": 2364,
       "topics": [
         "awesome",
         "change-detection",
