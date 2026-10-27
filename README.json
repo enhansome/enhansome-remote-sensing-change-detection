@@ -66,7 +66,7 @@
             "id": 1144977027,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-05-05T15:06:35Z",
+            "last_commit": "2026-10-27T09:37:20Z",
             "open_issues": 1,
             "owner": "abdelpy",
             "repo": "FOTBCD-datasets",
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "bit",
               "change-detection",
@@ -1220,7 +1220,7 @@
                     "open_issues": 3,
                     "owner": "dyzy41",
                     "repo": "PeftCD",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1262,7 +1262,7 @@
                     "open_issues": 5,
                     "owner": "likyoo",
                     "repo": "DynamicEarth",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1283,7 +1283,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 147,
+                    "stars": 148,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1397,7 +1397,7 @@
                     "open_issues": 14,
                     "owner": "dyzy41",
                     "repo": "ChangeCLIP",
-                    "stars": 156,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 900,
+                    "stars": 901,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2428,7 +2428,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 521,
+                    "stars": 522,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2498,7 +2498,7 @@
                     "open_issues": 0,
                     "owner": "yulisun",
                     "repo": "RIEM",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 900,
+                    "stars": 901,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:38:39.195Z",
+    "last_updated": "2026-10-27T21:21:37.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2364,
+      "stars": 2365,
       "topics": [
         "awesome",
         "change-detection",
