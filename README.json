@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Bili-Sakura",
             "repo": "RSCC",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -188,7 +188,7 @@
             "open_issues": 2,
             "owner": "zmoka-zht",
             "repo": "FoBa",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 148,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -642,7 +642,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-21T11:43:55Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
             "stars": 262,
@@ -911,7 +911,7 @@
             "open_issues": 9,
             "owner": "Z-Zheng",
             "repo": "pytorch-change-models",
-            "stars": 269,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1283,7 +1283,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 148,
+                    "stars": 150,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1325,7 +1325,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1523,7 +1523,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1610,7 +1610,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1796,7 +1796,7 @@
                     "open_issues": 2,
                     "owner": "zmoka-zht",
                     "repo": "FoBa",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1933,7 +1933,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1954,7 +1954,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2305,7 +2305,7 @@
                     "open_issues": 9,
                     "owner": "Z-Zheng",
                     "repo": "pytorch-change-models",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:21:37.613Z",
+    "last_updated": "2026-10-28T21:40:27.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2365,
+      "stars": 2364,
       "topics": [
         "awesome",
         "change-detection",
