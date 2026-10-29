@@ -2977,7 +2977,7 @@
                     "open_issues": 5,
                     "owner": "wgcban",
                     "repo": "SemiCD",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "change-detection",
                       "consistency",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:40:27.472Z",
+    "last_updated": "2026-10-29T21:49:27.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2364,
+      "stars": 2365,
       "topics": [
         "awesome",
         "change-detection",
