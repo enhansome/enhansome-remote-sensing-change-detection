@@ -708,7 +708,7 @@
             "open_issues": 4,
             "owner": "jie666-6",
             "repo": "UrbanSARFloods",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "benchmark",
               "coherence",
@@ -2098,7 +2098,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-04-01T05:14:02Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "JayParanjape",
                     "repo": "M-CD",
                     "stars": 50,
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:27:47.566Z",
+    "last_updated": "2026-11-01T21:11:53.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
