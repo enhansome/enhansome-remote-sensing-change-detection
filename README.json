@@ -620,7 +620,7 @@
             "id": 1061552247,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-30T05:36:11Z",
+            "last_commit": "2026-11-05T06:34:26Z",
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
@@ -1279,7 +1279,7 @@
                     "id": 1061552247,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-30T05:36:11Z",
+                    "last_commit": "2026-11-05T06:34:26Z",
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
@@ -1835,7 +1835,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-07-24T13:25:58Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "zhuduowang",
                     "repo": "Change3D",
                     "stars": 102,
@@ -2038,7 +2038,7 @@
                     "open_issues": 10,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3378,7 +3378,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3567,7 +3567,7 @@
             "open_issues": 1,
             "owner": "daifeng2016",
             "repo": "Awesome-Optical-Remote-Sensing-Datasets-and-Methods",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:38:35.399Z",
+    "last_updated": "2026-11-05T22:41:01.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
