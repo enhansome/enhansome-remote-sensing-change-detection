@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "bit",
               "change-detection",
@@ -1082,7 +1082,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "change-detection",
                       "clcd",
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 904,
+                    "stars": 905,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2428,7 +2428,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 524,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 904,
+                    "stars": 905,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:41:01.209Z",
+    "last_updated": "2026-11-06T22:08:04.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2370,
+      "stars": 2371,
       "topics": [
         "awesome",
         "change-detection",
