@@ -361,10 +361,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-19T01:09:05Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zxk688",
             "repo": "GVLM",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:55:02.352Z",
+    "last_updated": "2026-11-08T21:11:47.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
