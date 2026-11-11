@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "bit",
               "change-detection",
@@ -1283,7 +1283,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2143,7 +2143,7 @@
                     "open_issues": 0,
                     "owner": "ElliotVincent",
                     "repo": "SitsSCD",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 906,
+                    "stars": 907,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -2428,7 +2428,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 906,
+                    "stars": 907,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3304,7 +3304,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 70,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:23:11.522Z",
+    "last_updated": "2026-11-11T23:28:26.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2372,
+      "stars": 2371,
       "topics": [
         "awesome",
         "change-detection",
