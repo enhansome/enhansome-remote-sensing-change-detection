@@ -209,7 +209,7 @@
             "open_issues": 5,
             "owner": "circleLZY",
             "repo": "JL1-CD",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "benchmark",
               "change-detection",
@@ -708,7 +708,7 @@
             "open_issues": 5,
             "owner": "jie666-6",
             "repo": "UrbanSARFloods",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "benchmark",
               "coherence",
@@ -773,7 +773,7 @@
             "open_issues": 12,
             "owner": "CAU-HE",
             "repo": "CMCDNet",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2035,10 +2035,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-24T03:46:33Z",
-                    "open_issues": 10,
+                    "open_issues": 7,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 658,
+                    "stars": 659,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3304,7 +3304,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:28:26.176Z",
+    "last_updated": "2026-11-12T22:44:42.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2371,
+      "stars": 2372,
       "topics": [
         "awesome",
         "change-detection",
