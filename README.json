@@ -471,7 +471,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -492,7 +492,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -739,7 +739,7 @@
             "open_issues": 0,
             "owner": "whudk",
             "repo": "EVLab-CMCD",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "change-detection",
               "computer-vision",
@@ -2038,7 +2038,7 @@
                     "open_issues": 7,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 659,
+                    "stars": 660,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:44:42.018Z",
+    "last_updated": "2026-11-13T22:39:56.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2372,
+      "stars": 2373,
       "topics": [
         "awesome",
         "change-detection",
