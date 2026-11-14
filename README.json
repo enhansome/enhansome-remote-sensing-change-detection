@@ -645,7 +645,7 @@
             "open_issues": 3,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:39:56.104Z",
+    "last_updated": "2026-11-14T21:31:32.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
