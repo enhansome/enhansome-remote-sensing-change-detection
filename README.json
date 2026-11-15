@@ -960,7 +960,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "change-detection",
               "classification",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:31:32.525Z",
+    "last_updated": "2026-11-15T21:50:56.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
