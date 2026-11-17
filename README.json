@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "tangkai-RS",
             "repo": "DreamCD",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "change-detection",
               "diffusion-models",
@@ -594,7 +594,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-03T02:50:08Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Daisy-7",
             "repo": "Hi-UCD-S",
             "stars": 54,
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "bit",
               "change-detection",
@@ -1178,7 +1178,7 @@
                     "open_issues": 2,
                     "owner": "NK-JittorCV",
                     "repo": "ViTP",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1283,7 +1283,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1472,7 +1472,7 @@
                     "open_issues": 3,
                     "owner": "tangkai-RS",
                     "repo": "DreamCD",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "change-detection",
                       "diffusion-models",
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3623,7 +3623,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-21T09:37:33Z",
+            "last_commit": "2026-11-17T17:38:04Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:49:39.150Z",
+    "last_updated": "2026-11-17T23:51:14.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
