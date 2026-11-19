@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "tangkai-RS",
             "repo": "DreamCD",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "change-detection",
               "diffusion-models",
@@ -471,7 +471,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -492,7 +492,7 @@
             "open_issues": 4,
             "owner": "S2Looking",
             "repo": "Dataset",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -687,7 +687,7 @@
             "open_issues": 4,
             "owner": "HATFormer",
             "repo": "MMCD",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -890,7 +890,7 @@
             "open_issues": 16,
             "owner": "xwmaxwma",
             "repo": "rschange",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 2,
             "owner": "ChenHongruixuan",
             "repo": "ChangeDetectionRepository",
-            "stars": 539,
+            "stars": 538,
             "topics": [
               "change-detection",
               "deep-learning",
@@ -1472,7 +1472,7 @@
                     "open_issues": 3,
                     "owner": "tangkai-RS",
                     "repo": "DreamCD",
-                    "stars": 33,
+                    "stars": 32,
                     "topics": [
                       "change-detection",
                       "diffusion-models",
@@ -2017,7 +2017,7 @@
                     "open_issues": 16,
                     "owner": "xwmaxwma",
                     "repo": "rschange",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2038,7 +2038,7 @@
                     "open_issues": 7,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 661,
+                    "stars": 660,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3399,7 +3399,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 913,
+            "stars": 912,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3588,7 +3588,7 @@
             "open_issues": 2,
             "owner": "MinZHANG-WHU",
             "repo": "Change-Detection-Review",
-            "stars": 913,
+            "stars": 912,
             "topics": [
               "artificial-intelligence",
               "caffe",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:24:01.912Z",
+    "last_updated": "2026-11-19T23:35:37.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2375,
+      "stars": 2374,
       "topics": [
         "awesome",
         "change-detection",
