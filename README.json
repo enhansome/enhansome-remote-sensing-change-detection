@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:35:37.340Z",
+    "last_updated": "2026-11-20T23:06:05.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2374,
+      "stars": 2375,
       "topics": [
         "awesome",
         "change-detection",
