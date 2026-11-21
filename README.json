@@ -687,7 +687,7 @@
             "open_issues": 4,
             "owner": "HATFormer",
             "repo": "MMCD",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -960,7 +960,7 @@
             "open_issues": 19,
             "owner": "PaddlePaddle",
             "repo": "PaddleRS",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "change-detection",
               "classification",
@@ -2368,7 +2368,7 @@
                     "open_issues": 1,
                     "owner": "shinianzhihou",
                     "repo": "ChangeDetection",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": [
                       "change-detection",
                       "pytorch",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:06:05.127Z",
+    "last_updated": "2026-11-21T22:11:10.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2375,
+      "stars": 2377,
       "topics": [
         "awesome",
         "change-detection",
