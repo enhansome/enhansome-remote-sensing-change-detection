@@ -1502,7 +1502,7 @@
                     "open_issues": 0,
                     "owner": "Jiahuiqu",
                     "repo": "CT2Net",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2038,7 +2038,7 @@
                     "open_issues": 7,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 660,
+                    "stars": 661,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2395,7 +2395,7 @@
                     "open_issues": 9,
                     "owner": "wgcban",
                     "repo": "ChangeFormer",
-                    "stars": 630,
+                    "stars": 631,
                     "topics": [
                       "attention-mechanism",
                       "change-detection",
@@ -3103,7 +3103,7 @@
                     "open_issues": 1,
                     "owner": "Bobholamovic",
                     "repo": "ESCNet",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": [
                       "change-detection",
                       "convolutional-neural-networks",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:11:10.999Z",
+    "last_updated": "2026-11-22T22:29:07.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2377,
+      "stars": 2379,
       "topics": [
         "awesome",
         "change-detection",
