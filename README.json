@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Bili-Sakura",
             "repo": "RSCC",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -91,7 +91,7 @@
             "open_issues": 1,
             "owner": "ChangeCapsInRS",
             "repo": "MOSAIC-SEN2-CC",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "Junjue-Wang",
             "repo": "DisasterM3",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -1283,7 +1283,7 @@
                     "open_issues": 7,
                     "owner": "Junjue-Wang",
                     "repo": "DisasterM3",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2035,10 +2035,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-24T03:46:33Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 661,
+                    "stars": 662,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -2428,7 +2428,7 @@
                     "open_issues": 36,
                     "owner": "justchenhao",
                     "repo": "BIT_CD",
-                    "stars": 527,
+                    "stars": 526,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3623,7 +3623,7 @@
             "id": 795430193,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-17T17:38:04Z",
+            "last_commit": "2026-11-23T14:35:07Z",
             "open_issues": 0,
             "owner": "DoongLi",
             "repo": "Awesome-Scene-Change-Detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:29:07.413Z",
+    "last_updated": "2026-11-24T03:20:08.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2379,
+      "stars": 2380,
       "topics": [
         "awesome",
         "change-detection",
