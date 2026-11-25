@@ -1082,7 +1082,7 @@
                     "open_issues": 0,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "change-detection",
                       "clcd",
@@ -3304,7 +3304,7 @@
                 "open_issues": 0,
                 "owner": "oballinger",
                 "repo": "PWTT",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:58.235Z"
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:20:08.824Z",
+    "last_updated": "2026-11-25T01:26:44.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2380,
+      "stars": 2381,
       "topics": [
         "awesome",
         "change-detection",
