@@ -739,7 +739,7 @@
             "open_issues": 0,
             "owner": "whudk",
             "repo": "EVLab-CMCD",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "change-detection",
               "computer-vision",
@@ -1397,7 +1397,7 @@
                     "open_issues": 14,
                     "owner": "dyzy41",
                     "repo": "ChangeCLIP",
-                    "stars": 157,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2038,7 +2038,7 @@
                     "open_issues": 6,
                     "owner": "ChenHongruixuan",
                     "repo": "ChangeMamba",
-                    "stars": 662,
+                    "stars": 664,
                     "topics": [
                       "binary-change-detection",
                       "building-damage-assessment",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:26:44.714Z",
+    "last_updated": "2026-11-26T00:59:56.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2381,
+      "stars": 2382,
       "topics": [
         "awesome",
         "change-detection",
