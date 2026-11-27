@@ -91,7 +91,7 @@
             "open_issues": 1,
             "owner": "ChangeCapsInRS",
             "repo": "MOSAIC-SEN2-CC",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -932,7 +932,7 @@
             "open_issues": 94,
             "owner": "likyoo",
             "repo": "open-cd",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "bit",
               "change-detection",
@@ -1079,7 +1079,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-11T14:00:12Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "mason_cd",
                     "stars": 25,
@@ -1975,7 +1975,7 @@
                     "open_issues": 2,
                     "owner": "zmoka-zht",
                     "repo": "BiFA",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:58.235Z"
@@ -2277,7 +2277,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 909,
+                    "stars": 910,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3201,7 +3201,7 @@
                     "open_issues": 94,
                     "owner": "likyoo",
                     "repo": "open-cd",
-                    "stars": 909,
+                    "stars": 910,
                     "topics": [
                       "bit",
                       "change-detection",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:59:56.044Z",
+    "last_updated": "2026-11-27T01:01:16.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
