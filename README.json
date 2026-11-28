@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "fitzpchao",
             "repo": "BANDON",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.235Z"
@@ -645,7 +645,7 @@
             "open_issues": 3,
             "owner": "ChenHongruixuan",
             "repo": "BRIGHT",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "artificial-intelligence",
               "building-damage-assessment",
@@ -2606,8 +2606,8 @@
                     "homepage": "https://doi.org/10.1016/j.isprsjprs.2024.04.013",
                     "id": 729465253,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-02-11T03:03:01Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-27T08:32:01Z",
                     "open_issues": 3,
                     "owner": "tangkai-RS",
                     "repo": "ClearSCD",
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:01:16.915Z",
+    "last_updated": "2026-11-28T00:32:30.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.",
@@ -3653,7 +3653,7 @@
       "open_issues": 2,
       "owner": "wenhwu",
       "repo": "awesome-remote-sensing-change-detection",
-      "stars": 2382,
+      "stars": 2383,
       "topics": [
         "awesome",
         "change-detection",
